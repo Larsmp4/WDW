@@ -6,6 +6,11 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ## Learning Log
 ### 7 sept - 
 <img width="5109" height="7269" alt="20260907_140412" src="https://github.com/user-attachments/assets/57889164-066b-4a4d-bf54-4fcb6a8cca47" />
+Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.
+Digital garden is nog niet af en is altijd up to date
+Leg uit wat een website 'webby' maakt en welke websites jou het meeste inspireren.
+Duidelijkheid, leuke vormgeving en 
+Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.
 ### 4 sept - [Workshop]
 Vandaag hebben we geluisterd naar het verhaal en geschiedenis van HTML,CCS & javascript. En hun regels. Ook heb ik savonds de kleur veranderd van mijn site en de font aangepast naar ARIEL, gezien ik comic sans echt kut vind lol.
 ### 2 sept - [Workshop]
