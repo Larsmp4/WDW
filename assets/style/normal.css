@@ -1,14 +1,17 @@
-/* HIER KOMT JOUW CSS */
 @font-face {
   font-family: "Comic Relief";
-  src: url(../type/ComicRelief-Regular.woff2);
+  src: url("../type/ComicRelief-Regular.woff2");
   font-weight: 400;
   font-style: normal;
 }
 
 body {
-  font-family: "Comic Relief", system-ui;
-  background-color: Canvas;
-  color: CanvasText;
-  color-scheme: light dark;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: black;
+  color: white;
+  color-scheme: dark;
+  text-align: center;
+}
+header h2 {
+  font-size: 50px;
 }
