@@ -4,6 +4,20 @@
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
 ## Learning Log
+### 8 sept - 
+Ik heb de keuze gemaakt om het over voetbal te doen, gezien ik daar de laatste tijd meer mee bezig ben. En ik me daar momenteel meer in kan vinden.
+Daarbij heb ik 10 links opgezocht over geschiedenis & clubs van voetbal.
+1 KNVB, Historie van het Nederlandse voetbal: https://www.knvb.nl/over-ons/over-de-knvb/historie
+2 KNVB,Hoe het allemaal begon: https://www.knvb.nl/node/39336
+3 UEFA, Geschiedenis van Europees voetbal: https://www.uefa.com/about/our-history/
+4 Ajax historie: https://www.ajax.nl/club/historie
+5 Internationaal voetbal knvb: https://www.knvb.com/node/36
+6 Cruijf barca: https://www.fcbarcelona.com/en/fitxa/648131/johan-cruyff
+7 Cruijf Impact Uefa: https://www.uefa.com/news/01fc-0e7dfbefe86f-052a8813ba2b-1000--johan-cruyff-celebrates-his-65th-birthday/
+8 Basis principe/regels voetbal: https://www.nike.com/nl/a/zo-speel-je-voetbal
+9 Ajax, cruif coach: https://vereniging.ajax.nl/nieuwsupdate-vereniging/erfgoed-van-speler-tot-coach-de-jaren-80-van-cruijff
+10 125jaar ajax: https://www.ajax.nl/artikelen/125-jaar-ajax-wit-rood-witte-historie-van-begin-tot-eind
+
 ### 7 sept - 
 <img style="max-width: 300px; height: auto;" alt="20260907_140412" src="https://github.com/user-attachments/assets/57889164-066b-4a4d-bf54-4fcb6a8cca47" />
 Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.
