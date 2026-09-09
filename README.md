@@ -19,6 +19,15 @@ Stoer, vrolijk en uitdagend.
 
 Welke inspiratie haal je uit je 25 afbeeldingen?
 Ik haal inspiratie uit de liefde voor Ajax en voetbal. Ook zie ik veel ronde vormen. Die passen goed bij voetbal, omdat een voetbal rond is. De kleuren van Ajax vind ik ook belangrijk.
+
+Wat zou je willen vertellen over het onderwerp aan een ander?
+Ik wil vertellen over mijn passie voor Ajax, voetbal en Johan Cruijff. Ik wil vooral laten zien waarom ik dit zo leuk vind. Dit kan ik laten zien met foto's, kleuren, korte teksten en beelden van Ajax en Cruijff.
+
+Vul de zin aan:
+Ik wil mijn Digital Garden laten gaan over Ajax, voetbal en Johan Cruijff.
+en wil dat laten zien door foto's, korte teksten en verschillende beelden aan content te tonen.
+Ik begin met een stukje eigen content over mijn passie voor Ajax en voetbal.
+Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door meer foto's, verhalen en informatie over Ajax en Cruijff toe te voegen.
 ### 8 sept - 
 Ik heb de keuze gemaakt om het over voetbal te doen, gezien ik daar de laatste tijd meer mee bezig ben. En ik me daar momenteel meer in kan vinden.
 Daarbij heb ik 10 links opgezocht over geschiedenis & clubs van voetbal.
