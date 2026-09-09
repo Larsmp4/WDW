@@ -42,8 +42,15 @@ Daarbij heb ik 10 links opgezocht over geschiedenis & clubs van voetbal.
 9 Ajax, cruif coach: https://vereniging.ajax.nl/nieuwsupdate-vereniging/erfgoed-van-speler-tot-coach-de-jaren-80-van-cruijff
 10 125jaar ajax: https://www.ajax.nl/artikelen/125-jaar-ajax-wit-rood-witte-historie-van-begin-tot-eind
 
+50 fotos:
+<img width="1920" height="1080" alt="collage2" src="https://github.com/user-attachments/assets/cc206caa-1171-42fc-9630-2990d723ee21" />
+<img width="1920" height="1080" alt="collage1" src="https://github.com/user-attachments/assets/3c5885a7-9c2e-4c89-a098-7d4f7f0238dd" />
+<img width="1920" height="1080" alt="collage5" src="https://github.com/user-attachments/assets/a04aaf1e-1eb4-404b-b4f9-ee6d8d07b7b7" />
+<img width="1920" height="1080" alt="collage4" src="https://github.com/user-attachments/assets/c3c260bc-cc0f-4645-b58e-65bb94fd8b14" />
+<img width="1920" height="1080" alt="collage3" src="https://github.com/user-attachments/assets/0d37c2bb-14b0-4380-bb48-abc71a265aac" />
+
 ### 7 sept - 
-<img style="max-width: 300px; height: auto;" alt="20260907_140412" src="https://github.com/user-attachments/assets/57889164-066b-4a4d-bf54-4fcb6a8cca47" />
+<img style="max-height:500; height: auto;" alt="20260907_140412" src="https://github.com/user-attachments/assets/57889164-066b-4a4d-bf54-4fcb6a8cca47" />
 Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.
 Digital garden is nog niet af en is altijd up to date
 Leg uit wat een website 'webby' maakt en welke websites jou het meeste inspireren.
