@@ -4,6 +4,21 @@
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
 ## Learning Log
+### 9 sept -
+Wat is voor jou de essentie van wat je hebt gepresenteerd?
+Voetbal is mijn passie. Vooral Ajax en Cruijff vind ik leuk. Ik heb hier veel tijd en liefde in gestopt.
+
+Welke woorden uit de kwaliteitenlijst passen bij je onderwerp?
+Stoer, vrolijk, uitdagend, energiek en passievol.
+
+Heeft ‘de ander’ een aanvulling op je onderwerp?
+Ja, de focus moet vooral op Ajax en Cruijff blijven. Ook de kleuren zijn belangrijk.
+
+Wat is het karakter/gevoel van je onderwerp?
+Stoer, vrolijk en uitdagend.
+
+Welke inspiratie haal je uit je 25 afbeeldingen?
+Ik haal inspiratie uit de liefde voor Ajax en voetbal. Ook zie ik veel ronde vormen. Die passen goed bij voetbal, omdat een voetbal rond is. De kleuren van Ajax vind ik ook belangrijk.
 ### 8 sept - 
 Ik heb de keuze gemaakt om het over voetbal te doen, gezien ik daar de laatste tijd meer mee bezig ben. En ik me daar momenteel meer in kan vinden.
 Daarbij heb ik 10 links opgezocht over geschiedenis & clubs van voetbal.
