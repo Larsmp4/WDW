@@ -4,6 +4,13 @@
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
 ## Learning Log
+### 14 sept -
+
+### 11 sept -
+vandaag en gister heb ik schetsen gemaakt voor mijn website en daarbij dus gelijk de opdrachten van deze week. De buttons wil ik evt aanpassen naar de 433 opstelling waar ajax en cruijff bekent van zijnn geworden.
+<img width="4000" height="3000" alt="20260909_123048" src="https://github.com/user-attachments/assets/0ec8e472-0f92-4ff0-be27-3e45556f4714" />
+<img width="4000" height="2695" alt="20260910_112530" src="https://github.com/user-attachments/assets/f7b561d3-e1f8-4350-84eb-7ea554daab38" />
+
 ### 9 sept -
 Wat is voor jou de essentie van wat je hebt gepresenteerd?
 Voetbal is mijn passie. Vooral Ajax en Cruijff vind ik leuk. Ik heb hier veel tijd en liefde in gestopt.
