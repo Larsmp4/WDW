@@ -5,7 +5,14 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 ### 14 sept -
+vandaag website gemaakt ajax logo gemaakt in illustrator en die op mijn website gekregen.
 
+Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
+als het te druk wordt of er juist te basic uitziet. Teveel kleurverschil etc
+Vertel welke volgende stap je neemt om je website responsive te maken.
+door de formaten aan te laten passen op device, dus dat het op pc kan en telefoon
+Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?
+THUS DOEN
 ### 11 sept -
 vandaag en gister heb ik schetsen gemaakt voor mijn website en daarbij dus gelijk de opdrachten van deze week. De buttons wil ik evt aanpassen naar de 433 opstelling waar ajax en cruijff bekent van zijnn geworden.
 <img width="4000" height="3000" alt="20260909_123048" src="https://github.com/user-attachments/assets/0ec8e472-0f92-4ff0-be27-3e45556f4714" />
