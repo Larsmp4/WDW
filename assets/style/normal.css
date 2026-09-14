@@ -1,12 +1,11 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
   color: #111;
-  background-color: white;
+  background: white;
   text-align: center;
 }
 
 main {
-  width: 100vw;
   height: 100vh;
   display: flex;
   justify-content: center;
@@ -16,12 +15,27 @@ main {
 }
 
 .menu-page {
-  background-image: linear-gradient(rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.75)),
-    url("../PicturesOfSVG/AJAX_BACKGROUND.svg");}
+  background-image:
+    linear-gradient(rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.75)),
+    url("../PicturesOfSVG/AJAX_BACKGROUND.svg");
+  background-size: cover;
+}
+
+.menu-page nav {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
 
 .menu-page a {
-  color: #111;
-  background-color: white;
+  color: white;
+  background: #d2122e;
   padding: 0.75rem 1.5rem;
   border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.menu-page a:hover {
+  background: #a10e24;
 }
