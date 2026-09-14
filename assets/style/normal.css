@@ -4,16 +4,6 @@ body {
   background: white;
   text-align: center;
 }
-
-main {
-  height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  gap: 1rem;
-}
-
 .menu-page nav {
   display: flex;
   flex-direction: column;
