@@ -17,7 +17,7 @@ main {
 
 .menu-page {
   background-image: linear-gradient(rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.75)),
-    url("./assets/Pictures En SVG/AJAX_BACKGROUND.svg");
+    url("../Pictures\ En\ SVG/AJAX_BACKGROUND");
   background-size: cover;
   background-position: center;
 }
