@@ -4,6 +4,11 @@
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
 ## Learning Log
+### 15 sept -
+vandaag heb ik weer lopen testen en kloten met mijn website en daarbij geprobeerd het logo weer aan de praat te krijgen, die was kapot gegaan omdat een css regel de afbeelding zo groot maakte dat hij niet meer te zien was en buiten beeld was gevlogen, ook heb ik getest met de 433 opstelling te maken doormiddel van li'tjes (zonder de bolletjes) en een grid toe te passen, hieronder heb ik een afbeelding van het eerste resultaat (waar die het nog niet helemaal deed en de werkende
+<img width="1080" height="2340" alt="Screenshot_20260915_183015_Chrome" src="https://github.com/user-attachments/assets/a84b62b6-a377-4266-9e14-da4b21591936" />
+<img width="1080" height="2340" alt="Screenshot_20260915_110037_Chrome" src="https://github.com/user-attachments/assets/2c3109e2-ecb7-43ab-ab74-28599b51ae06" />
+Volgende stap is het ook werkend te krijgen op pc (de homepage logo & menu achtergrond) dat wil ik doormiddel van een media tag met min-max gaan doen, dus dat als een scherm breder is dan 700-800 pixels dat hij dan verspringt naar de liggende logo/afbeelding (die moet ik ook nog maken)
 ### 14 sept -
 vandaag website gemaakt ajax logo gemaakt in illustrator en die op mijn website gekregen.
 Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
@@ -16,6 +21,7 @@ Wat ik wil is een homepage met hover of klik die een smooth transitsie maakt naa
 vandaag en gister heb ik schetsen gemaakt voor mijn website en daarbij dus gelijk de opdrachten van deze week. De buttons wil ik evt aanpassen naar de 433 opstelling waar ajax en cruijff bekent van zijnn geworden.
 <img width="4000" height="3000" alt="20260909_123048" src="https://github.com/user-attachments/assets/0ec8e472-0f92-4ff0-be27-3e45556f4714" />
 <img width="4000" height="2695" alt="20260910_112530" src="https://github.com/user-attachments/assets/f7b561d3-e1f8-4350-84eb-7ea554daab38" />
+<img width="3000" height="4000" alt="20260915_182716" src="https://github.com/user-attachments/assets/9dfed7b8-9fd3-461e-b57d-a9721dd898ec" />
 
 ### 9 sept -
 Wat is voor jou de essentie van wat je hebt gepresenteerd?
