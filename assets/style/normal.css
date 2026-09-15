@@ -4,19 +4,36 @@ body {
   background: white;
   text-align: center;
 }
-.menu-page nav {
-  display: flex;
-  flex-direction: column;
-  gap: 1rem;
-}
 
 .menu-page {
+  min-height: 100dvh;
+  width: 100vw;
   background-image: linear-gradient(rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.75)),
     url("../PicturesOfSVG/AJAX_BACKGROUND.svg");
-   background-size: cover;
+  background-size: cover;
+  background-position: center;
+}
+
+.menu-page main {
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 2rem 1rem;
+}
+
+.row {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  margin: 0;
+  padding: 0;
 }
 
 .menu-page a {
+  display: inline-block;
   color: white;
   background: #d2122e;
   padding: 0.75rem 1.5rem;
