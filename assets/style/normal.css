@@ -1,6 +1,11 @@
+@font-face {
+  font-family: "Anton";
+  src: url("../type/anton.ttf");
+}
+
 body {
   margin: 0;
-  font-family: Arial;
+  font-family: "Anton", Arial, sans-serif;
   text-align: center;
 }
 
