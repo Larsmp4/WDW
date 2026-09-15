@@ -6,13 +6,12 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ## Learning Log
 ### 14 sept -
 vandaag website gemaakt ajax logo gemaakt in illustrator en die op mijn website gekregen.
-
 Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
 als het te druk wordt of er juist te basic uitziet. Teveel kleurverschil etc
 Vertel welke volgende stap je neemt om je website responsive te maken.
 door de formaten aan te laten passen op device, dus dat het op pc kan en telefoon
 Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?
-THUS DOEN
+Wat ik wil is een homepage met hover of klik die een smooth transitsie maakt naar het menu, op het menu zou een 4-3-3 opstelling willen vanuit ajax (aanvallend)voetbal
 ### 11 sept -
 vandaag en gister heb ik schetsen gemaakt voor mijn website en daarbij dus gelijk de opdrachten van deze week. De buttons wil ik evt aanpassen naar de 433 opstelling waar ajax en cruijff bekent van zijnn geworden.
 <img width="4000" height="3000" alt="20260909_123048" src="https://github.com/user-attachments/assets/0ec8e472-0f92-4ff0-be27-3e45556f4714" />
@@ -76,6 +75,9 @@ Vandaag hebben we geluisterd naar het verhaal en geschiedenis van HTML,CCS & jav
 ### 2 sept - [Workshop]
 Vandaag heb ik een deepdive gekregen over de 5MMD principes affordance cue feedback etc.
 Dit was fijn als refresh, daarna gingen we werken met css teksten bewerken en dat was ook gelukt
+<img width="596" height="767" alt="Schermafbeelding 2026-09-02 124020" src="https://github.com/user-attachments/assets/cf295ab3-d155-4f5b-97f9-337d426a5f97" />
+<img width="1011" height="628" alt="Schermafbeelding 2026-09-02 103544" src="https://github.com/user-attachments/assets/1b3f5aee-eba2-4986-be0f-f38b5442a677" />
+
 ### 31 aug - Kickoff
 Een fork van de model repository gemaakt en gepubliceerd via mijn eigen Github omgeving.
 Leg uit wat een source hosting platform is en voor welke jij gekozen hebt?
