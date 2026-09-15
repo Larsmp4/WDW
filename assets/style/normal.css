@@ -19,6 +19,7 @@ body {
   justify-content: space-between;
   padding: 2rem 0.1rem;
 }
+
 .row {
   list-style: none;
   display: flex;
@@ -41,7 +42,4 @@ body {
   text-decoration: none;
   font-weight: bold;
   font-size: 0.8rem;
-}
-.menu-page a:hover {
-  background: #a10e24;
 }
