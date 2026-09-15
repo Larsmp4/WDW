@@ -7,7 +7,7 @@ body {
 .menu-page {
   min-height: 100dvh;
   background-image:
-  linear-gradient(rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.75)),
+  linear-gradient(rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.75)), 
   url("../PicturesOfSVG/AJAX_BACKGROUND.svg");
   background-size: cover;
   background-position: center;
@@ -29,16 +29,15 @@ body {
   padding: 0;
   list-style: none;
 }
-
 .row li {
   flex: 1;
   max-width: 180px;
 }
 
-.menu-page a {
+.menu-page a { /*knopie design */
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: center; 
   aspect-ratio: 1;
   background: #d2122e;
   color: white;
@@ -48,5 +47,5 @@ body {
 }
 
 .menu-page a:hover {
-  background: #a10e24;
+  background: #700314;
 }
