@@ -1,13 +1,14 @@
 body {
   margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
-  color: #111;
+  font-family: Arial;
   text-align: center;
 }
 
 .menu-page {
-  background-image: linear-gradient(rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.75)),
-    url("../PicturesOfSVG/AJAX_BACKGROUND.svg");
+  min-height: 100dvh;
+  background-image:
+  linear-gradient(rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.75)),
+  url("../PicturesOfSVG/AJAX_BACKGROUND.svg");
   background-size: cover;
   background-position: center;
 }
@@ -17,29 +18,35 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  padding: 2rem 0.1rem;
+  padding: 20px;
 }
 
 .row {
-  list-style: none;
   display: flex;
-  justify-content: space-between;
-  flex-wrap: nowrap;
-  gap: 0.4rem;
+  justify-content: center;
+  gap: 10px;
   margin: 0;
   padding: 0;
+  list-style: none;
+}
+
+.row li {
+  flex: 1;
+  max-width: 180px;
 }
 
 .menu-page a {
   display: flex;
-  align-items: center;
   justify-content: center;
-  flex: 1;
-  aspect-ratio: 1 / 1;
-  color: white;
+  align-items: center;
+  aspect-ratio: 1;
   background: #d2122e;
-  border-radius: 8px;
+  color: white;
   text-decoration: none;
   font-weight: bold;
-  font-size: 0.8rem;
+  border-radius: 8px;
+}
+
+.menu-page a:hover {
+  background: #a10e24;
 }
