@@ -1,3 +1,4 @@
+/*fawaka css*/
 @font-face {
   font-family: "Anton";
   src: url("../type/anton.ttf");
@@ -20,12 +21,22 @@ body {
 }
 
 @media (min-width: 800px) {
-  .menu-page {
+  .menu-page, .paginaBG {
     background-image:
       linear-gradient(rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.75)),
       url("../PicturesOfSVG/AJAX_BACKGROUND1.svg");
   }
+
+  .menu-page main {
+    max-width: 900px;
+    margin: 0 auto;
+  }
+
+  .row li {
+    max-width: 140px;
+  }
 }
+
 .menu-page main {
   min-height: 100dvh;
   display: flex;
