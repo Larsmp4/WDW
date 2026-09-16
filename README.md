@@ -4,6 +4,18 @@
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
 ## Learning Log
+### 16 sept -
+Noem 3 Gestalt- of Design principes op en laat de ander uitleggen wat ze betekenen en doen.
+Symmetrisch (balans)
+Nabijheid 
+Vormrestvorm
+Closure
+Ingevulde hiaat (dit waren notities van de presentatie vanochtend)
+Een grid biedt ruimte om te spelen (vrijheid), maar tegelijkertijd ook eenheid en structuur (vastigheid). Wat wordt hiermee bedoeld? 
+Dat je grid groot is en veel plekken heeft waar je de afbeelding kan plaatsen, maar door die (voorgekozen) plekken heb je wel structuur hebt.
+Welk principe neem je mee in een laatste iteratie van je eigen Garden? 
+Whitespace was wel iets wat ik moest meenemen.
+
 ### 15 sept -
 vandaag heb ik weer lopen testen en kloten met mijn website en daarbij geprobeerd het logo weer aan de praat te krijgen, die was kapot gegaan omdat een css regel de afbeelding zo groot maakte dat hij niet meer te zien was en buiten beeld was gevlogen, ook heb ik getest met de 433 opstelling te maken doormiddel van li'tjes (zonder de bolletjes) en een grid toe te passen, hieronder heb ik een afbeelding van het eerste resultaat (waar die het nog niet helemaal deed en de werkende
 <img width="1080" height="2340" alt="Screenshot_20260915_183015_Chrome" src="https://github.com/user-attachments/assets/a84b62b6-a377-4266-9e14-da4b21591936" />
