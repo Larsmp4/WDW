@@ -11,12 +11,12 @@ body {
 }
 
 .menu-page, .paginaBG {
-  min-height: 100dvh;
-  background-image:
-  linear-gradient(rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.75)), 
-  url("../PicturesOfSVG/AJAX_BACKGROUND.svg");
-  background-size: cover;
-  background-position: center;
+    min-height: 100dvh;
+    background-image:
+        linear-gradient(rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.75)),
+        url("../PicturesOfSVG/AJAX_BACKGROUND.svg");
+    background-size: cover;
+    background-position: center;
 }
 
 .menu-page main {
