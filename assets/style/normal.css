@@ -30,14 +30,15 @@ body {
   .menu-page, .paginaBG {
     background-image: url("../PicturesOfSVG/AJAX_BACKGROUND1_25.svg");
   }
-
   .menu-page main {
     max-width: 900px;
     margin: 0 auto;
   }
-
   .row li {
     max-width: 140px;
+  }
+  .menu-page a {
+    font-size: 1.4rem;
   }
 }
 
@@ -45,7 +46,8 @@ body {
   min-height: 100dvh;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: center;
+  gap: 2rem;
   padding: 20px;
 }
 
