@@ -42,13 +42,13 @@ body {
   }
 }
 
-.menu-page main { /*Feedback: mindah whitespace op tel tussen die blokken*/
+.menu-page main { /*Feedback: mindah whitespace op tel tussen die blokk*/
   min-height: 100dvh;
   display: flex;
   flex-direction: column;
   justify-content: center;
   gap: 2rem;
-  padding: 20px;
+  padding: 2rem;
 }
 
 .row {
