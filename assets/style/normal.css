@@ -7,8 +7,8 @@
 html {
   color-scheme: light dark;
   --background: light-dark(white, black);
-  --color: light-dark(#d2122e, #ff4d6a);
-  --border-color: light-dark(#d2122e, #ff4d6a);
+  --color: #d2122e;
+  --border-color: #d2122e;
 }
 
 body {
