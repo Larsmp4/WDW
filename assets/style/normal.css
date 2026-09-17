@@ -80,3 +80,18 @@ body {
 .menu-page a:hover {
   background: #700314;
 }
+
+.paginaBG main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  padding: 1.25rem;
+}
+
+.paginaBG main img {
+  max-width: 90%;
+  max-height: 60vh;
+  border-radius: 8px;
+}
