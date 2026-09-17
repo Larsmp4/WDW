@@ -4,7 +4,7 @@
   src: url("../type/anton.ttf");
 }
 
-html {
+html { /*Feedback: darklight verplicht!!!!*/
   color-scheme: light dark;
   --background: light-dark(white, black);
   --color: #d2122e;
@@ -26,7 +26,7 @@ body {
     background-position: center;
 }
 
-@media (min-width: 800px) {
+@media (min-width: 800px) { 
   .menu-page, .paginaBG {
     background-image: url("../PicturesOfSVG/AJAX_BACKGROUND1_25.svg");
   }
@@ -38,11 +38,11 @@ body {
     max-width: 140px;
   }
   .menu-page a {
-    font-size: 1.4rem;
+    font-size: 1.4rem; /*Feedback:duuidelijkere tekst, leesbaarhouden*/
   }
 }
 
-.menu-page main {
+.menu-page main { /*Feedback: mindah whitespace op tel tussen die blokken*/
   min-height: 100dvh;
   display: flex;
   flex-direction: column;
