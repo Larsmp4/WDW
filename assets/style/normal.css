@@ -39,6 +39,7 @@ body {
   }
   .menu-page a {
     font-size: 1.4rem; /*Feedback:duuidelijkere tekst, leesbaarhouden*/
+    letter-spacing: 1px;
   }
 }
 
