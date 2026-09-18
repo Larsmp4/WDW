@@ -15,13 +15,8 @@ Een grid biedt ruimte om te spelen (vrijheid), maar tegelijkertijd ook eenheid e
 Dat je grid groot is en veel plekken heeft waar je de afbeelding kan plaatsen, maar door die (voorgekozen) plekken heb je wel structuur hebt.
 Welk principe neem je mee in een laatste iteratie van je eigen Garden? 
 Whitespace was wel iets wat ik moest meenemen.
-<img
-  width="3000"
-  height="4000"
-  alt="20260916_103206"
-  src="https://github.com/user-attachments/assets/923e5080-f84e-4f2d-826e-ed5108fcc92d"
-  style="transform: rotate(90deg);"
-/>
+<img width="4000" height="3000" alt="20260916_103206" src="https://github.com/user-attachments/assets/0d49fac8-641d-4eb0-909f-cf8479589aaa" />
+
 Ook heb ik vandaag de min 800 pixels gedaan en ervoor gezorgt dat de afbeelding mee beweegt op het device Telefoon/PC. Ook heb ik de pagina's aangemaakt.
 ### 15 sept -
 vandaag heb ik weer lopen testen en kloten met mijn website en daarbij geprobeerd het logo weer aan de praat te krijgen, die was kapot gegaan omdat een css regel de afbeelding zo groot maakte dat hij niet meer te zien was en buiten beeld was gevlogen, ook heb ik getest met de 433 opstelling te maken doormiddel van li'tjes (zonder de bolletjes) en een grid toe te passen, hieronder heb ik een afbeelding van het eerste resultaat (waar die het nog niet helemaal deed en de werkende
