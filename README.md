@@ -4,6 +4,104 @@
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
 ## Learning Log
+### 18 sept -
+Vandaag heb ik retrospect ingevuld en daarbij meerdere dingen getekent (zie hieronder) Ook kreeg ik de feedback over het gemaakte werk tot nu toe. 
+<img width="4000" height="2754" alt="20260918_111004" src="https://github.com/user-attachments/assets/68e1770f-0636-47b6-844f-acfb25fc72d9" />
+<img width="3842" height="2757" alt="20260918_111015" src="https://github.com/user-attachments/assets/894dd697-1048-4a45-a970-5920d5e156f8" />
+<img width="3649" height="2496" alt="20260918_110950" src="https://github.com/user-attachments/assets/1461649d-39b8-411b-bb4a-80d78cf1d944" />
+
+### CHECKOUT (LANG):
+
+Oriënteren en begrijpen
+Kort gezegd: begrijp je waar de opdracht over gaat? Begrijp je waarom de docenten deze opdracht geven? En begrijp je de (technische) mogelijkheden en beperkingen van deze opdracht? 
+Veel mensen denken dat deze competentie een fase in het ontwerpproces is die eerst afgerond moet worden. Dat is niet zo. Een opdracht wordt ook steeds duidelijker door er aan te werken, en dat doe je ook door de andere competenties in te zetten. Oriënteren en begrijpen betekent dus zeker niet dat je eerst desk research moet doen. Je kan ook aan deze competentie werken door te maken.
+Vragen en termen
+•	Waarom geven de docenten deze opdracht?
+Docenten geven een opdracht altijd met een reden. Ze willen dat je iets specifieks leert, iets wat je nu nog niet kunt. Je kunt een docent zien als een opdrachtgever. Ook bij een opdrachtgever wil je er achter komen waarom die deze opdracht geeft. Het is altijd een goed idee om te blijven vragen tot je het begrijpt.
+Lars: De docent probeert ons/mij iets aan te leren binnen html/css en het ontwerp proces (van idee naar schets naar prototype) Zodat we dit later in kunnen zetten in de werkwereld
+•	Welke technieken gebruik ik?
+Een van de belangrijkste leerdoelen van dit blok is het leren van HTML en CSS zodat je een betere digitale ontwerper wordt. Je kan er vanuit gaan dat HTML en CSS een belangrijke rol spelen in de opdracht.
+Lars: Ik vindt het css heel leuk om te doen omdat ik het goed begin te begrijpen. Css zorgt voor een betere opmaak en niet dat het eruit ziet als een word bestand. Ook gebruik je de basis html om zo de basis opmaak en regels neer te zetten.
+•	Wat zijn de randvoorwaarden?
+Naast de gebruikte techniek zijn er eigenlijk altijd ook andere randvoorwaarden. Zorg er voor dat je die goed voor ogen hebt. Bijvoorbeeld: hoe veel tijd heb je? Wat is je kennis tot nu toe? Maar ook: is mijn ontwerp wel toegankelijk? voldoet het aan de privacy-wetgeving? En ook: is mijn ontwerp wel echt webby of maak ik een plaatje van een website?
+Lars: Dit is wat ik vond op DLO: 1) Je website staat tijdig op GitHub (en DLO) en werkt zonder fouten. 2) Je hebt je voortgang besproken tijdens de voortgangsgesprekken. 3) Je hebt je proces inzichtelijk vastgelegd. 4) Je hebt je bronnen vermeld in je learning log en code. 5) Je hebt je werk zelf gemaakt en kunt je keuzes/ideeën/code uitleggen. 6) Je werk is verzorgd, daar valt taal, en attention to detail ook onder. Hier heb ik 2x onvoldoende voor gekregen tijdens het gesprek. De taal in mijn readme was niet formeel en incorrect. Ook had ik nog niet bij elke kleur een custom property gebruikt. Dat ga ik natuurlijk veranderen
+
+•	Waar gebruik je HTML/CSS voor?
+Wees je bewust van de mogelijkheden en de onmogelijkheden van HTML en CSS. HTML is om content te structureren en om interactie mogelijk te maken. CSS is om vorm te geven, om dingen te verduidelijken, en om interactie prettiger te maken.
+Lars: HTML is de basis van je site, hier komt je tekst en je basis layout h1,h2,h3,p afbeelding etc
+•	Wat kan er allemaal met CSS?
+Niemand weet wat er allemaal kan met CSS, er kan zoveel, steeds meer, en nog niet alles is ontdekt. Maar je kan wel een heel goed beeld krijgen van wat er allemaal ongeveer kan. Je kan op allerlei manieren dingen layouten, je kan eindeloze hoeveelheden visuele effecten toepassen, en je kan op talloze manieren dingen laten animeren. Je hoeft natuurlijk niet alles te kunnen, daar is dit blok veel te kort voor, maar het is wel lang genoeg om te zien wat er allemaal kan. Dan kan je kiezen wat je wil gaan leren, zowel tijdens het blok als daarna.
+Lars: Ik zou zeggen dat het oneindig is maar dat is het niet echt. Al kan er bijna alles in tegenwoordig, dat is soms ook lastig omdat dingen op verschillende manieren kunnen (zoals bij mij ik flex heb gebruikt ipv grid) Dat allemaal onthouden is soms lastig. Ook komt er om de zoveel tijd nieuwe code bij. Tegenwoordig kan je zelfs animeren.
+Verbeelden en conceptualiseren
+Soms denken mensen dat je eerst de competentie 'Oriënteren en begrijpen' moet afronden voordat je hieraan kunt beginnen, maar dat is niet zo. Schetsen, maken, en concepten verzinnen, zijn ook manieren om de opdracht beter te begrijpen. En het zijn ook manieren om het product naar een volgend niveau te tillen. En het zijn ook manieren om in de detailfase verschillende mogelijke kleine ontwerpkeuzes te onderzoeken. Verbeelden en conceptualiseren doe je de hele tijd.
+Vragen en termen
+•	Lukt het om verschillende ideeën te bedenken?
+Het is meestal een goed idee om eens een paar verschillende mogelijke oplossingsrichtingen te onderzoeken. Dat kunnen bijvoorbeeld een paar schetsjes zijn. Maar er zijn natuurlijk ook een heleboel andere mogelijke creatieve onderzoeksmethoden.
+Lars: Ja, ik heb verschillende ideeën ontwikkeld binnen het ajax thema, zo had ik hele andere crazy 8s en daarna ook weer verschillende telefoon schetsen. Na het maken van die tel schets heb ik tijden het designen ook nog paar leuke ideeën gekregen (zoals de knoppen in een 433 opstelling neer te zetten, iets wat echt gekoppeld is aan ajax en nederland)
+•	Lukt het om je ideeën te schetsen?
+Door je ideeën te schetsen krijg je nieuwe inzichten. Als je het voor je ziet zie je dingen die je in je hoofd niet ziet. Door er fysiek aan te werken kom je ook details tegen die je in je hoofd wellicht over het hoofd ziet. En door het te schetsen kan je het delen. Je kan medestudenten, of docenten, vragen wat zij er van vinden en dan krijg je ook hun ideeën er gratis bij!
+Lars: Het schetsen ging me goed af en was ook leuk om te doen. Zoveel ideeën in je hoofd maar eindstand komen er nog meer uit die je op het eerst niet eens aan dacht. Vooral bij de crazy 8s, daar pers je soms dingen eruit dat je denkt “huh zat dit in me” Maar uiteindelijk heb ik wel een van de laatste schetsen gekozen, want aantoont dat de beste ideeën niet altijd voor de hand liggen.
+•	Wat doet deze CSS-property?
+Spelen met materiaal is ook een manier om op nieuwe ideeën te komen. Een geweldig variable font kan je ineens een heel nieuw idee geven. Spelen met CSS-gradients kan je een onverwachte vormgevingsrichting opsturen. Spelen met CSS animaties en transities kan je nieuwe ideeën geven over hoe de interactie moet werken. Etc.
+Lars: Hierin kan je een kleuren pallet bijvoorbeeld stoppen of een font (@font face) 
+Dit is handig zodat je maar 1x je kleur hoeft aan te passen en niet een zoektocht de doen daar de kleurcode. Dit moet ik nog doen, omdat ik het bij paar wel had gedaan, maar bij een paar niet. Dat stond ook in de feedback.
+•	Welke content, en welke HTML heb ik nodig?
+Een andere goede manier om op nieuwe ideeën te komen is door eens goed naar de inhoud te kijken: wat moet er ongeveer op deze pagina komen? Alleen tekst? Afbeeldingen? Wat voor interactie? Is een header met een navigatie echt nodig? Is het een lijstje met dingen? Of is het eigenlijk één lang artikel?
+Lars: Qua html heb ik voornamelijke afbeeldingen nodig en tekst. HTML is meer de basis voor je dingen waar je je juiste layout maakt en bij css maak je het juist mooier. Ook maak je hier je knoppen/links voor volgende pagina’s 
+•	Hoe kan ik dit soort content vormgeven?
+Kale HTML is lelijk. Met CSS kan je het mooi maken. En dat kan op alle mogelijke manieren. Je kan dingen onder elkaar zetten, naast elkaar of achter elkaar. Je kan dingen in een keurig grid zetten of in een chaotische flexbox-layout. Je kan hysterische kleuren gebruiken of een ingetogen minimalistische stijl kiezen. Je moet nadenken over verschillende manieren hoe jouw gebruikers jouw website willen bedienen.
+Lars: Met css heb ik bijvoorbeeld de knoppen mooier gemaakt en in die 433 positsie. Ook heb ik de responsiveness hier toegepast en ervoor gezorgd dat er verschillende afbeeldingen op de achtergrond komen (aangepast op device 800 pixels)
+•	Wat als ik hier nu eens 1000 invul?
+We zijn eigenijk best vaak voorzichtig. Onze ontwerpen zijn dus ook vaak nogal subtiel. Dan denken we een zeer expressief ding gemaakt te hebben, maar het valt niemand echt op. Probeer dus ook eens 1000 in te vullen, in plaats van 1.1. Dingen worden dan niet alleen enorm onsubtiel, maar er gebeuren ook dingen die je niet van tevoren kunt bedenken. Ook dat hoort natuurlijk bij verbeelden en conceptualiseren.
+Lars: Ik heb dit wel eens geprobeerd want soms ben je nieuwsgierig naar hoe ver je kan gaan met je code, want ene x is 1000 weinig en andere keer veelste veel bijvoorbeeld 1000pixels afbeelding valt mee, maar 1000 pixels tekst lettertype is echt huge
+Prototypen en uitwerken
+Ook deze competentie doe je de hele tijd. Je werkt de hele tijd dingen uit. Soms om een concept beter te begrijpen, soms om iets te maken wat je kunt testen, soms om iets af te maken. 
+Vragen en termen
+•	Begrijpen bezoekers de site?
+De enige echte manier om er achter te komen of bezoekers jouw site wel begrijpen is door een werkend prototype te maken. Door dit prototype met HTML en CSS te maken kan je op een heel ander detailniveau testen.
+Lars: Ik heb het getest met klasgenoten & familie en daaruit echt handige tips gekregen van hoe iets beter kan of iets wat juist tof was. Dit helpt aangezien je eigen beeld soms eentonig kan zijn (like meeste mensen vinden hun eigen werk altijd mooier)
+•	Wat vindt de opdrachtgever er van?
+Jouw bedoelingen worden veel duidelijker met een werkend prototype. Dat kan om een klein werkend detail gaan, of om een gehele pagina.
+Lars: Geen idee nog, heb daar nog niet echt feedback over gehad. Al vondt de docent de site er wel leuk uitzien.
+•	Werkt dit wel?
+Vaak verzinnen we dingen die niet kunnen, of die heel moeilijk te maken zijn. Daar kom je vaak pas achter als je gaat bouwen. Wacht dus vooral niet te lang, je wil er niet in de laatste week achter komen dat iets niet kan.
+Lars: Ik vind dat het werkt en de feedback van klasgenoten en vrienden en familie tonen aan dat het echt leuk is en inderdaad een goed gevoel geeft over mij en me hobbie (ajax kijken)
+•	Oooooh, kan dit óók?!
+Tijdens het maken kom je vaak ook op hele nieuwe ideeën. Door een CSS techniek te gebruiken kom je er achter hoe die werkt, en kom je er achter dat je er nog veel meer mee kunt doen. Je leert dit soort technieken veel beter door ze echt toe te passen, dan zit het meteen in je vingers.
+Lars: JA! Zoals eerder vermeld had ik die 4-3-3 knoppen tijden het maken een beetje bedacht, en dat is supertof uitgepakt
+Evalueren
+Je bent natuurlijk altijd, tijdens het hele ontwerpproces, aan het evalueren, niet alleen als iets bijna af is. Je vraagt je de hele tijd af of een schets wel mooi is, of een idee wel goed is, of je bezoekers iets wel begrijpen, of je idee nog wel aan de opdracht voldoet, etc. Maar door regelmatig *bewust* te reflecteren wordt het een onderdeel van je ontwerpproces, en word je je ook veel bewuster van alles.
+•	Reflecteren met the riddle:
+Een goede manier om bewuster te reflecteren is door je telkens deze vier vragen te stellen: (1) wat wilde ik weten? (2) wat deed ik om er achter te komen? (3) wat was het resultaat? (4) wat weet ik nu (niet)?
+Lars: Wat wilde ik weten? Ik wou graag weten hoe bepaalde ideeën kon overzetten naar code. Wat deed ik om er achter te komen? Hiervoor heb ik de lessen gevolgd, vragen gesteld aan docenten/klasgenoten/vader. Wat is het resultaat? Tot zoverre echt een tof resultaat, het is nog niet af en zijn dingen die ik graag wil aanpassen. 
+•	Wat wil(de) ik weten/bereiken?
+Deze vraag kan je je na elke activiteit even stellen. Waarom ging ik dit ook al weer doen? Wat wilde ik bereiken? Of wat ging ik ook al weer onderzoeken? En waarom wilde ik dit ook al weer weten? 
+Lars: Ik wilde dat mijn website echt een beeld geeft van wat ik tof vind (dat is gelukt want ajax)
+•	Wat heb ik gedaan?
+Tijdens je creatieve proces, of tijdens je creatieve onderzoek doe je dingen. Je doet dingen als code typen, schetsen maken, bronnen bestuderen, etc. Het is goed om achteraf altijd even bewust terug te kijken naar wat je allemaal gedaan hebt. Je kan je dan afvragen wat goed werkte, en wat minder goed, en dan kijken of je daar goede redenen voor kunt verzinnen.
+Lars: Ik begon met een keuze maken f1 of ajax? Daarbij heb ik een keuze gemaakt op wat meer een beeld vormt rondom mij, en dat is Ajax. 
+•	Voldoet het nog aan de eisen?
+Elke opdracht heeft bepaalde voorwaarden en beperkingen. Soms wijk je daar, zonder dat je het door hebt, tijdens het werken van af. Stel je dus regelmatig de vraag of datgene wat je aan het doen bent wel datgene is wat er moet gebeuren. Hoe eerder je er achter komt dat dat niet zo is, hoe minder vervelend het is. Een uurtje afdwalen is veel minder erg (en vaak zelfs onverwacht goed) dan een hele week weggooien. Bekijk nog eens de randvoorwaarden bij deze sprint en verhoud je daar toe.
+Lars: Bepaalde eisen moest ik nog verwerken, zoals het gebruik van grid. Ik had namelijk flex gebruikt bij de 433 knoppen omdat grid daar lastig is (het is geen 3x3, maar een 2 bij 3 en dan een rij van 4) Dus flex was makkelijker. Om toch die Grid te gebruiken had ik het idee om dat bij de afbeeldingen te doen (een soort collage) Ook moet ik nog mijn custom (color) proporties fixen aangezien ik dat niet bij alle kleuren had gedaan.
+Er zijn een aantal regels waar jouw site de komende sprints steeds meer aan gaat voldoen, wellicht kan je hier nu al op reflecteren.
+•	HTML validatie
+Is de HTML die je hebt geschreven nog wel valide? Check het regelmatig, hiermee voorkom je onverklaarbare fouten. En klopt de HTML wel? Gebruik je de juiste elementen op de juiste plek?
+Lars: Ja mijn HTML klopt helemaal, moet wel zeggen dat ik op paar plekken een test.4.5 etc heb verwerkt. Maar die niet op elke pagina meer klopt.
+•	Toegankelijkheids-check
+Check regelmatig of je website nog wel goed te gebruiken is met het toetsenbord. En of hij nog te begrijpen is met een screenreader. Zitten er alt-teksten op de afbeeldingen? Is het contrast overal hoog genoeg?
+Lars: Ik wil bepaalde contrasten nog verbeteren (zoals bij dark modes de tekst, en de leesbaarheid van de tekst op de knoppen) Hier had ik helaas geen tijd voor en ik had andere prioriteiten zoals dat de basis (html) gewoon werkt. En ik het idee kan overbrengen wat ik heb voor deze sprint (sprint1)
+•	Is mijn website nog wel adaptief?
+Werkt mijn website nog met light en darkmode? Wat gebeurt er met de prefers-reduced-motion instelling? Werkt het op verschillende schermgroottes?
+Lars: Darkmode werkt super (wil misschien nog een knop toevoegen om het aan en uit te zetten) En de pagina’s zijn volledig aanpassend op verschillende devices en werken prima!
+•	Voldoet mijn website nog wel aan de wet?
+Overtreed je de wet niet? Bijvoorbeeld door afbeeldingen van iemand anders te gebruiken, door je niet aan de AVG te houden, of door iets ontoegankelijk te maken?
+Lars: Ik overtreed geen wet en behoud geen gegevens van mensen. Misschien is het lastig om voor slechtziende de tekst te lezen (zoals ik paar vragen hierboven had aangegeven wou ik dit nog aanpassen)
+•	Zie ik mezelf nog wel terug in wat ik doe?
+Kijk regelmatig kritisch naar wat je aan het doen bent en vraag je dan af of dit wel is wat je wil maken, en wat je wil leren.
+Lars: Zekers, ik heb zoveel plezier in het maken van deze site. Omdat het iets is waar me interesses liggen en over mij gaat. Ajax is echt iets waar ik veel om geef. En coderen is ook wel leuk, maar soms aan de lastige kant.
+
+
+
 ### 16 sept -
 Noem 3 Gestalt- of Design principes op en laat de ander uitleggen wat ze betekenen en doen.
 Symmetrisch (balans)
