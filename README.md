@@ -35,8 +35,7 @@ Wat ik wil is een homepage met hover of klik die een smooth transitsie maakt naa
 vandaag en gister heb ik schetsen gemaakt voor mijn website en daarbij dus gelijk de opdrachten van deze week. De buttons wil ik evt aanpassen naar de 433 opstelling waar ajax en cruijff bekent van zijnn geworden.
 <img width="4000" height="3000" alt="20260909_123048" src="https://github.com/user-attachments/assets/0ec8e472-0f92-4ff0-be27-3e45556f4714" />
 <img width="4000" height="2695" alt="20260910_112530" src="https://github.com/user-attachments/assets/f7b561d3-e1f8-4350-84eb-7ea554daab38" />
-<img width="3000" height="4000" alt="20260915_182716" src="https://github.com/user-attachments/assets/9dfed7b8-9fd3-461e-b57d-a9721dd898ec" />
-
+<img width="4000" height="3000" alt="20260915_182716" src="https://github.com/user-attachments/assets/438fa4a4-1ff5-492b-97c6-e511cc638282" />
 ### 9 sept -
 Wat is voor jou de essentie van wat je hebt gepresenteerd?
 Voetbal is mijn passie. Vooral Ajax en Cruijff vind ik leuk. Ik heb hier veel tijd en liefde in gestopt.
