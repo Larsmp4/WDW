@@ -12,13 +12,13 @@ Vandaag heb ik retrospect ingevuld en daarbij meerdere dingen getekent (zie hier
 
 ### CHECKOUT (LANG):
 
-# Oriënteren en begrijpen
+### Oriënteren en begrijpen
 
 Kort gezegd: begrijp je waar de opdracht over gaat? Begrijp je waarom de docenten deze opdracht geven? En begrijp je de (technische) mogelijkheden en beperkingen van deze opdracht?
 
 Veel mensen denken dat deze competentie een *fase* in het ontwerpproces is die eerst afgerond moet worden. Dat is niet zo. Een opdracht wordt ook steeds duidelijker door er aan te werken, en dat doe je ook door de andere competenties in te zetten. Oriënteren en begrijpen betekent dus *zeker niet* dat je eerst desk research moet doen. Je kan ook aan deze competentie werken *door te maken.*
 
-## Vragen en termen
+### Vragen en termen
 
 * **Waarom geven de docenten deze opdracht?**
 
@@ -50,11 +50,11 @@ Veel mensen denken dat deze competentie een *fase* in het ontwerpproces is die e
 
   **Lars:** Ik zou zeggen dat het oneindig is maar dat is het niet echt. Al kan er bijna alles in tegenwoordig, dat is soms ook lastig omdat dingen op verschillende manieren kunnen (zoals bij mij ik flex heb gebruikt ipv grid) Dat allemaal onthouden is soms lastig. Ook komt er om de zoveel tijd nieuwe code bij. Tegenwoordig kan je zelfs animeren.
 
-# Verbeelden en conceptualiseren
+### Verbeelden en conceptualiseren
 
 Soms denken mensen dat je eerst de competentie 'Oriënteren en begrijpen' moet afronden voordat je hieraan kunt beginnen, maar dat is niet zo. Schetsen, maken, en concepten verzinnen, zijn *ook* manieren om de opdracht beter te begrijpen. En het zijn *ook* manieren om het product naar een volgend niveau te tillen. En het zijn ook manieren om in de detailfase verschillende mogelijke kleine ontwerpkeuzes te onderzoeken. Verbeelden en conceptualiseren doe je de hele tijd.
 
-## Vragen en termen
+### Vragen en termen
 
 * **Lukt het om verschillende ideeën te bedenken?**
 
@@ -94,11 +94,11 @@ Soms denken mensen dat je eerst de competentie 'Oriënteren en begrijpen' moet a
 
   **Lars:** Ik heb dit wel eens geprobeerd want soms ben je nieuwsgierig naar hoe ver je kan gaan met je code, want ene x is 1000 weinig en andere keer veelste veel bijvoorbeeld 1000pixels afbeelding valt mee, maar 1000 pixels tekst lettertype is echt huge
 
-# Prototypen en uitwerken
+### Prototypen en uitwerken
 
 Ook deze competentie doe je de hele tijd. Je werkt de hele tijd dingen uit. Soms om een concept beter te begrijpen, soms om iets te maken wat je kunt testen, soms om iets af te maken.
 
-## Vragen en termen
+### Vragen en termen
 
 * **Begrijpen bezoekers de site?**
 
@@ -124,11 +124,11 @@ Ook deze competentie doe je de hele tijd. Je werkt de hele tijd dingen uit. Soms
 
   **Lars:** JA! Zoals eerder vermeld had ik die 4-3-3 knoppen tijden het maken een beetje bedacht, en dat is supertof uitgepakt
 
-# Evalueren
+### Evalueren
 
 Je bent natuurlijk altijd, tijdens het hele ontwerpproces, aan het evalueren, niet alleen als iets bijna af is. Je vraagt je de hele tijd af of een schets wel mooi is, of een idee wel goed is, of je bezoekers iets wel begrijpen, of je idee nog wel aan de opdracht voldoet, etc. Maar door regelmatig *bewust* te reflecteren wordt het een onderdeel van je ontwerpproces, en word je je ook veel bewuster van alles.
 
-## Vragen en termen
+### Vragen en termen
 
 * **Reflecteren met *the riddle*:**
 
