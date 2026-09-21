@@ -4,6 +4,14 @@
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
 ## Learning Log
+
+### 21 sept -
+Wat zijn HTML landmark role elements?
+Dit zijn van die tags die aangeven welk onderdeel van een website iets is, zoals <header>, <nav>, <main> en <footer>.
+Wat zijn heading elementen en hoe horen deze genest te worden?
+Headings zijn de koppen van een pagina, dus h1,h2,h3 etc
+Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.
+Ik accepteer alles... Omdat ik te lui ben om alles te selecteren en het mij niet uitmaakt of ik gepersonaliseerde reclame krijg (Soms is die reclame handig, omdat ik soms vergeet dat ik bepaalde producten nodig heb lol)
 ### 18 sept -
 Vandaag heb ik retrospect ingevuld en daarbij meerdere dingen getekent (zie hieronder) Ook kreeg ik de feedback over het gemaakte werk tot nu toe. 
 <img width="4000" height="2754" alt="20260918_111004" src="https://github.com/user-attachments/assets/68e1770f-0636-47b6-844f-acfb25fc72d9" />
