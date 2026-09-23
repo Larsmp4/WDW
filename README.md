@@ -14,14 +14,23 @@ Ik denk dat de beste optie is om een pop up te gebruiken waar de gebruiker een k
 
 **Op welke manier kan je instemming vragen?**
 -Cookiebanner: je krijgt een melding met bv “Accepteren” of “Weigeren”. (deze zie ik het meest)
+
 -Pop up:er komt een klein venster in beeld met uitleg en een keuze.
+
 -Checkbox :je kan een vakje aanvinken om toestemming te geven.
+
 -Instellingenpagina: mensen kunnen daar zelf hun privacy instellingen aanpassen (met van die checkboxen)
+
 -Knoppen: bv een knop met “Toestaan” en een knop met “Niet toestaan”.
+
 -Per soort cookie kiezen: je kan bijvoorbeeld een groep cookies (bv marketing) aan of uit zetten.
+
 -Toestemming voor een video: een video wordt pas geladen als je toestemming geeft (wat we bij paradiso zagen)
+
 -Toestemming voor social mediasocial media: wordt pas actief als je er zelf op klikt.
+
 -Privacy icoontje: je klikt op een icoontje om je privacy instellingen te bekijken of te veranderen.
+
 -Bij een formulier: voordat je een formulier verstuurd kan je bv een vakje aanvinken dat je toestemming geeft (forms etc)
 
 **Hoe pas ik dit doe op mijn site?**
