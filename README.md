@@ -5,6 +5,21 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ## Learning Log
 
 ### 23 sept -
+**checkout**
+Wat is een wireflow en wat heb je er aan?
+Laat zien wat een gebruiker ziet bij een actie (bv een klik op een button), het is handig om te zien of jouw knop/plan wel werkt.
+
+Wat zijn dark UX patterns? Geef drie voorbeelden...
+Verborgen weigerknop, klein en grijs of een groene knop (groen=goed)
+Vakjes al aangevinkt voor je
+Banner blijft terugkomen na weigeren
+
+Waar moet je als ontwerper rekening mee houden bij het maken van een human consent component?
+-Knoppen even groot/opvallend
+-Simpele taal
+-Site blijft bruikbaar zonder keuze
+-Weigeren net zo makkelijk als accepteren
+(en natuurlijk geen dark patterns)
 **Human Consent Component opdrack:**
 **Welke cookies? In onze website heb je de volgende elemeten die evt privacy gegevens kunnen bevatten:**
 Github (ip-adress wordt opgeslagen) & het externe java sript file van Digitaaltuintje.nl
