@@ -52,6 +52,7 @@ Kleinere of evengrote link/knop "Meer info" , die naar een korte privacy pagina 
 <img width="3000" height="4000" alt="20260923_122427" src="https://github.com/user-attachments/assets/34f71411-0eed-4803-9951-0daaf9cc52e3" />
 <img width="3000" height="4000" alt="20260923_125243" src="https://github.com/user-attachments/assets/6fe39d7d-62d6-4a15-9a82-0493b2b520d1" />
 <img width="4000" height="3000" alt="20260923_132518" src="https://github.com/user-attachments/assets/9e707a6d-2c44-43e6-a87a-92d0015c91d1" />
+
 ### 21 sept -
 Wat zijn HTML landmark role elements?
 Dit zijn van die tags die aangeven welk onderdeel van een website iets is, zoals <header>, <nav>, <main> en <footer>.
