@@ -6,11 +6,13 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ### 23 sept -
 **Human Consent Component opdrack:**
-Welke cookies? In onze website heb je de volgende elemeten die evt privacy gegevens kunnen bevatten: Github (ip-adress wordt opgeslagen) & het externe java sript file van Digitaaltuintje.nl
+**Welke cookies? In onze website heb je de volgende elemeten die evt privacy gegevens kunnen bevatten:**
+Github (ip-adress wordt opgeslagen) & het externe java sript file van Digitaaltuintje.nl
 
-Hoe informeer ik hun? Ik denk dat de beste optie is om een pop up te gebruiken waar de gebruiker een keuze heeft uit 2 neutrale knoppen (weigeren/accpeteren) Ook moet er een knop zijn waar ze alle info van deze cookies kunnen zien.
+**Hoe informeer ik hun?**
+Ik denk dat de beste optie is om een pop up te gebruiken waar de gebruiker een keuze heeft uit 2 neutrale knoppen (weigeren/accpeteren) Ook moet er een knop zijn waar ze alle info van deze cookies kunnen zien.
 
-Op welke manier kan je instemming vragen?
+**Op welke manier kan je instemming vragen?**
 -Cookiebanner: je krijgt een melding met bv “Accepteren” of “Weigeren”. (deze zie ik het meest)
 -Pop up:er komt een klein venster in beeld met uitleg en een keuze.
 -Checkbox :je kan een vakje aanvinken om toestemming te geven.
@@ -22,14 +24,17 @@ Op welke manier kan je instemming vragen?
 -Privacy icoontje: je klikt op een icoontje om je privacy instellingen te bekijken of te veranderen.
 -Bij een formulier: voordat je een formulier verstuurd kan je bv een vakje aanvinken dat je toestemming geeft (forms etc)
 
-Hoe pas ik dit doe op mijn site?
+**Hoe pas ik dit doe op mijn site?**
 Keuze: cookiebanner met drie knoppen (Accepteren / Weigeren / Meer info)
 Past bij mijn site: simpel, geen overbodige info.
-Zelfde rode knopstijl als de rest van mijn site, zodat het niet anders eruit.
-Geen instellingenpagina nodig (gezien de site alleen github en js gebruikt)
+
+Zelfde rode knop als de rest van mijn site, zodat het niet anders eruit.
+Geen instellingenpagina nodig (gezien de site alleen github en js gebruikt.
+
 Plek op de pagina:
 Een balk/blok onderaan het scherm, boven de footer (zie afbeeldingen hieronder)
 Geen full screen pop-up, zodat de pagina herkenbaar en mooi blijft.
+
 Inhoud:
 Korte tekst: "Deze site gebruikt GitHub voor hosting en het javascript voor digitaaltuintje.nl, verder wordt er niets bijgehouden."
 Twee even grote, even opvallende hoofdknoppen (Accepteren/Weigeren) zodat je geen dark patern krijgt.
