@@ -8,7 +8,9 @@ html { /*Feedback: darklight verplicht!!!!*/
   color-scheme: light dark;
   --background: light-dark(white, black);
   --color: #d2122e;
-  --border-color: #d2122e;
+  --button-background: #d2122e;
+  --button-color: white;
+  --button-hover: #700314;
 }
 
 body {
@@ -70,15 +72,15 @@ body {
   justify-content: center;
   align-items: center; 
   aspect-ratio: 1;
-  background: #d2122e;
-  color: white;
+  background: var(--button-background);
+  color: var(--button-color);
   text-decoration: none;
   font-weight: bold;
   border-radius: 8px;
 }
 
 .menu-page a:hover {
-  background: #700314;
+  background: var(--button-hover);
 }
 
 .menu-page h1 {
