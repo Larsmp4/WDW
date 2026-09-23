@@ -1,10 +1,44 @@
-
+<img width="3000" height="4000" alt="20260923_122427" src="https://github.com/user-attachments/assets/de9f834b-7767-4eee-bff0-f80bc1701017" />
 # Model
 
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
 ## Learning Log
 
+### 23 sept -
+**Human Consent Component opdrack:**
+Welke cookies? In onze website heb je de volgende elemeten die evt privacy gegevens kunnen bevatten: Github (ip-adress wordt opgeslagen) & het externe java sript file van Digitaaltuintje.nl
+
+Hoe informeer ik hun? Ik denk dat de beste optie is om een pop up te gebruiken waar de gebruiker een keuze heeft uit 2 neutrale knoppen (weigeren/accpeteren) Ook moet er een knop zijn waar ze alle info van deze cookies kunnen zien.
+
+Op welke manier kan je instemming vragen?
+-Cookiebanner: je krijgt een melding met bv “Accepteren” of “Weigeren”. (deze zie ik het meest)
+-Pop up:er komt een klein venster in beeld met uitleg en een keuze.
+-Checkbox :je kan een vakje aanvinken om toestemming te geven.
+-Instellingenpagina: mensen kunnen daar zelf hun privacy instellingen aanpassen (met van die checkboxen)
+-Knoppen: bv een knop met “Toestaan” en een knop met “Niet toestaan”.
+-Per soort cookie kiezen: je kan bijvoorbeeld een groep cookies (bv marketing) aan of uit zetten.
+-Toestemming voor een video: een video wordt pas geladen als je toestemming geeft (wat we bij paradiso zagen)
+-Toestemming voor social mediasocial media: wordt pas actief als je er zelf op klikt.
+-Privacy icoontje: je klikt op een icoontje om je privacy instellingen te bekijken of te veranderen.
+-Bij een formulier: voordat je een formulier verstuurd kan je bv een vakje aanvinken dat je toestemming geeft (forms etc)
+
+Hoe pas ik dit doe op mijn site?
+Keuze: cookiebanner met drie knoppen (Accepteren / Weigeren / Meer info)
+Past bij mijn site: simpel, geen overbodige info.
+Zelfde rode knopstijl als de rest van mijn site, zodat het niet anders eruit.
+Geen instellingenpagina nodig (gezien de site alleen github en js gebruikt)
+Plek op de pagina:
+Een balk/blok onderaan het scherm, boven de footer (zie afbeeldingen hieronder)
+Geen full screen pop-up, zodat de pagina herkenbaar en mooi blijft.
+Inhoud:
+Korte tekst: "Deze site gebruikt GitHub voor hosting en het javascript voor digitaaltuintje.nl, verder wordt er niets bijgehouden."
+Twee even grote, even opvallende hoofdknoppen (Accepteren/Weigeren) zodat je geen dark patern krijgt.
+Kleinere of evengrote link/knop "Meer info" , die naar een korte privacy pagina leidt voor wie meer wil weten.
+
+<img width="3000" height="4000" alt="20260923_122427" src="https://github.com/user-attachments/assets/34f71411-0eed-4803-9951-0daaf9cc52e3" />
+<img width="3000" height="4000" alt="20260923_125243" src="https://github.com/user-attachments/assets/6fe39d7d-62d6-4a15-9a82-0493b2b520d1" />
+<img width="4000" height="3000" alt="20260923_132518" src="https://github.com/user-attachments/assets/9e707a6d-2c44-43e6-a87a-92d0015c91d1" />
 ### 21 sept -
 Wat zijn HTML landmark role elements?
 Dit zijn van die tags die aangeven welk onderdeel van een website iets is, zoals <header>, <nav>, <main> en <footer>.
