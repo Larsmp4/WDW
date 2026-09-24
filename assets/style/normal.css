@@ -41,8 +41,8 @@ body {
     max-width: 140px;
   }
   .menu-page a {
-    font-size: 2rem; /*Feedback:duuidelijkere tekst, leesbaarhouden*/
-    letter-spacing: 5px;
+    font-size: 1.5rem; /*Feedback:duuidelijkere tekst, leesbaarhouden*/
+    letter-spacing: 3px;
   }
 }
 
