@@ -107,7 +107,7 @@ body {
   width: 100%;
   border-radius: 8px;
 }
-.grijs{
+.menu-page a.grijs {
   background: var(--button-color-grijs);
   color: var(--button-color)}
   
