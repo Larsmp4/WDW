@@ -41,8 +41,8 @@ body {
     max-width: 140px;
   }
   .menu-page a {
-    font-size: 1.4rem; /*Feedback:duuidelijkere tekst, leesbaarhouden*/
-    letter-spacing: 4px;
+    font-size: 2rem; /*Feedback:duuidelijkere tekst, leesbaarhouden*/
+    letter-spacing: 5px;
   }
 }
 
@@ -110,3 +110,7 @@ body {
 .grijs{
   background: var(--button-color-grijs);
   color: var(--button-color)}
+  
+.menu-page a.grijs:hover {
+  background: var(--button-color-grijs);
+}
