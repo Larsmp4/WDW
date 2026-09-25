@@ -120,5 +120,5 @@ body {
 }
 :focus-visible { /*feedback student front-end: Als je met tab door de site heengaat is de zwarte rand te klein*/
   outline: 2px dashed black;
-  outline-offset: 2px;
+  outline-offset: 1px;
 }
