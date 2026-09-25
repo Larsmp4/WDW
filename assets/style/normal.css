@@ -57,15 +57,19 @@ body {
 
 nav ul {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(12, 1fr);
   gap: 10px;
-  margin: 0 0 1rem;
+  margin: 0;
   padding: 0;
   list-style: none;
 }
 
-nav ul:last-of-type {
-  grid-template-columns: repeat(4, 1fr);
+nav li {
+  grid-column: span 4; /* eerste 6 knoppen: 3 per rij */
+}
+
+nav li:nth-child(n+7) {
+  grid-column: span 3; /* laatste 4 knoppen: 4 per rij */
 }
 
 .menu-page a { /*knopie design */
@@ -112,10 +116,6 @@ nav ul:last-of-type {
 .menu-page a[inert] {
   background: var(--button-color-grijs);
   color: var(--button-color);
-  pointer-events: none;
-}
-
-.grijs{ /*Student coach had me geholpen. Dit zorgt ervoor dat er geen "handje" over de unclickble knop komt*/
   pointer-events: none;
 }
 
