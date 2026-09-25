@@ -73,6 +73,7 @@ body {
   aspect-ratio: 1;
   background: var(--button-background);
   color: var(--button-color);
+  text-decoration: none;
   font-weight: bold;
   border-radius: 8px;
 }
@@ -81,7 +82,7 @@ body {
   background: var(--button-hover);
 }
 
-.menu-page h1 { /*text met intro over mij*/
+.menu-page h1 { /*introstukje*/
   font-size: 2rem;
 }
 
