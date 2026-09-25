@@ -115,3 +115,6 @@ body {
 .menu-page a.grijs:hover {
   background: var(--button-color-grijs);
 }
+.grijs{
+  pointer-events: none;
+}
