@@ -114,9 +114,11 @@ nav ul:last-of-type {
   color: var(--button-color);
   pointer-events: none;
 }
+
 .grijs{ /*Student coach had me geholpen. Dit zorgt ervoor dat er geen "handje" over de unclickble knop komt*/
   pointer-events: none;
 }
+
 :focus-visible { /*feedback student front-end: Als je met tab door de site heengaat is de zwarte rand te klein*/
   outline: 4px dashed black;
   outline-offset: 1px;
