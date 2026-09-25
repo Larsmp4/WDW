@@ -41,7 +41,7 @@ body {
     max-width: 140px;
   }
   .menu-page a {
-    font-size: 2.5rem; /*Feedback:duuidelijkere tekst, leesbaarhouden*/
+    font-size: 2rem; /*Feedback:duuidelijkere tekst, leesbaarhouden*/
     letter-spacing: 3px;
   }
 }
@@ -52,7 +52,7 @@ body {
   flex-direction: column;
   justify-content: flex-start;
   gap: 2rem; 
-  padding: 2rem;
+  padding: 6rem;
 }
 
 .row {
@@ -94,7 +94,7 @@ body {
   justify-content: center;
   align-items: center;
   gap: 1rem;
-  padding: 2rem;
+  padding: 1.25rem;
 }
 
 .photo-grid {
