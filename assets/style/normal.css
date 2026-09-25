@@ -38,7 +38,7 @@ body {
     margin: 0 auto;
   }
   .row li {
-    flex: 0 0 180px;
+    max-width: 140px;
   }
 }
 
@@ -62,7 +62,8 @@ body {
   list-style: none;
 }
 .row li {
-  flex: 0 0 140px;
+  flex: 1;
+  max-width: 180px;
 }
 
 .menu-page a { /*knopie design */
@@ -81,7 +82,7 @@ body {
   background: var(--button-hover);
 }
 
-.menu-page h1 { /*introstukje*/
+.menu-page h1 { /*intro*/
   font-size: 2rem;
 }
 
