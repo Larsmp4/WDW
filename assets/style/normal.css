@@ -37,7 +37,7 @@ body {
     max-width: 900px;
     margin: 0 auto;
   }
-  .row li {
+  nav li {
     max-width: 140px;
   }
   .menu-page a {
@@ -55,17 +55,17 @@ body {
   padding: 2rem;
 }
 
-.row {
-  display: flex;
-  justify-content: center;
+nav ul {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
   gap: 10px;
-  margin: 0;
+  margin: 0 0 1rem;
   padding: 0;
   list-style: none;
 }
-.row li {
-  flex: 1;
-  max-width: 180px;
+
+nav ul:last-of-type {
+  grid-template-columns: repeat(4, 1fr);
 }
 
 .menu-page a { /*knopie design */
@@ -108,12 +108,11 @@ body {
   width: 100%;
   border-radius: 8px;
 }
-.menu-page a.grijs {
+
+.menu-page a[inert] {
   background: var(--button-color-grijs);
-  color: var(--button-color)}
-  
-.menu-page a.grijs:hover {
-  background: var(--button-color-grijs);
+  color: var(--button-color);
+  pointer-events: none;
 }
 .grijs{ /*Student coach had me geholpen. Dit zorgt ervoor dat er geen "handje" over de unclickble knop komt*/
   pointer-events: none;
