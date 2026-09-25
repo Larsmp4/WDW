@@ -37,9 +37,8 @@ body {
     max-width: 900px;
     margin: 0 auto;
   }
-  nav li {
+  .row li {
     max-width: 140px;
-    margin: 0 auto;
   }
   .menu-page a {
     font-size: 1.5rem; /*Feedback:duuidelijkere tekst, leesbaarhouden*/
@@ -56,21 +55,17 @@ body {
   padding: 2rem;
 }
 
-nav ul {
-  display: grid;
-  grid-template-columns: repeat(12, 1fr);
+.row {
+  display: flex;
+  justify-content: center;
   gap: 10px;
   margin: 0;
   padding: 0;
   list-style: none;
 }
-
-nav li {
-  grid-column: span 4; /* eerste 6 knoppen: 3 per rij */
-}
-
-nav li:nth-child(n+7) {
-  grid-column: span 3; /* laatste 4 knoppen: 4 per rij */
+.row li {
+  flex: 1;
+  max-width: 180px;
 }
 
 .menu-page a { /*knopie design */
@@ -113,13 +108,16 @@ nav li:nth-child(n+7) {
   width: 100%;
   border-radius: 8px;
 }
-
-.menu-page a[inert] {
+.menu-page a.grijs {
   background: var(--button-color-grijs);
-  color: var(--button-color);
+  color: var(--button-color)}
+  
+.menu-page a.grijs:hover {
+  background: var(--button-color-grijs);
+}
+.grijs{ /*Student coach had me geholpen. Dit zorgt ervoor dat er geen "handje" over de unclickble knop komt*/
   pointer-events: none;
 }
-
 :focus-visible { /*feedback student front-end: Als je met tab door de site heengaat is de zwarte rand te klein*/
   outline: 4px dashed black;
   outline-offset: 1px;
