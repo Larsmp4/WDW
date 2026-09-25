@@ -40,10 +40,6 @@ body {
   .row li {
     max-width: 140px;
   }
-  .menu-page a {
-    font-size: 1.5rem; /*Feedback:duuidelijkere tekst, leesbaarhouden*/
-    letter-spacing: 3px;
-  }
 }
 
 .menu-page main { /*Feedback: mindah whitespace op tel tussen die blokk*/
@@ -53,6 +49,8 @@ body {
   justify-content: flex-start;
   gap: 2rem; 
   padding: 2rem;
+  font-family: Arial, Helvetica, sans-serif; /*feedback: Tekst op knoppen niet te lezen*/
+  font-size: 1.5rem;
 }
 
 .row {
@@ -75,7 +73,6 @@ body {
   aspect-ratio: 1;
   background: var(--button-background);
   color: var(--button-color);
-  text-decoration: none;
   font-weight: bold;
   border-radius: 8px;
 }
@@ -84,7 +81,7 @@ body {
   background: var(--button-hover);
 }
 
-.menu-page h1 {
+.menu-page h1 { /*text met intro over mij*/
   font-size: 2rem;
 }
 
