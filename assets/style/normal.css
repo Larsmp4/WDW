@@ -39,6 +39,7 @@ body {
   }
   nav li {
     max-width: 140px;
+    margin: 0 auto;
   }
   .menu-page a {
     font-size: 1.5rem; /*Feedback:duuidelijkere tekst, leesbaarhouden*/
@@ -58,7 +59,6 @@ body {
 nav ul {
   display: grid;
   grid-template-columns: repeat(12, 1fr);
-  justify-items: center;
   gap: 10px;
   margin: 0;
   padding: 0;
