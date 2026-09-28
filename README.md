@@ -3,6 +3,14 @@
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
 ## Learning Log
+### 28 sept -
+Vandaag hebben we opdrachten gemaakt tijden de weekely geek. Dat deden we in een groepje.
+.Knop op home heeft "geen primaire actie" behalve als je hem opzoekt (met pijltjes of tab) 
+.Afbeeldingen op de pagina's werden als een soort "group" aangezien.
+<img width="4000" height="3000" alt="20260928_120528" src="https://github.com/user-attachments/assets/311f578c-e278-4511-b867-029c0bbc30df" />
+<img width="4000" height="3000" alt="20260928_120551" src="https://github.com/user-attachments/assets/bcc53583-45f2-48ac-a749-c3f78685449f" />
+<img width="4000" height="2766" alt="20260928_120706" src="https://github.com/user-attachments/assets/b2ff37c2-fe12-4b1d-9ed1-186cd5813e46" />
+
 ### 25 sept -
 W3C validatie gedaan en daarbij geen error's gehad. Alleen een paar informatie/tips. Ook heb ik vanochtend de feedback verwerkt: "Tekst onleesbaar op de menu pagina"
 <img width="1793" height="862" alt="Schermafbeelding 2026-09-25 092056" src="https://github.com/user-attachments/assets/ce30522f-dfd0-499e-9734-c3a10ecf4655" />
