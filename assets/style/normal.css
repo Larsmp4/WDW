@@ -12,6 +12,7 @@ html { /*Feedback: darklight verplicht!!!!*/
   --button-color: white;
   --button-hover: #700314;
   --button-color-grijs: #2e2e2e;
+  --header-color: light-dark(#d2122e, white);
 }
 
 body {
@@ -127,4 +128,7 @@ nav {
 :focus-visible { /*feedback student front-end: Als je met tab door de site heengaat is de zwarte rand te klein*/
   outline: 4px dashed black;
   outline-offset: 1px;
+}
+.h1 { /*deze zorgt voor dat die h1 op paginas en menu wit wordt*/
+  color: var(--header-color)
 }
