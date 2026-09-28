@@ -6,6 +6,13 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ### 25 sept -
 W3C validatie gedaan en daarbij geen error's gehad. Alleen een paar informatie/tips. Ook heb ik vanochtend de feedback verwerkt: "Tekst onleesbaar op de menu pagina"
 <img width="1793" height="862" alt="Schermafbeelding 2026-09-25 092056" src="https://github.com/user-attachments/assets/ce30522f-dfd0-499e-9734-c3a10ecf4655" />
+CHECK OUT
+Wat is HTML validatie, waarom is het belangrijk en hoe heb je dat vandaag uitgevoerd?
+Het is een programma/site die checked hoe goed jouw html is (of hoe slecht) Bij mij kwamen geen errors, paar info stukjes.
+Welke dingen vielen je op?
+Dat mijn site eigelijk best goed in elkaar zit, en niet echt problemen/errors heeft zoals sommige klasgenoten.
+Welke feedback heb je ontvangen tijdens het gesprek met je docenten?
+Best fijne feedback en niet echt iets wat ik moest aanpassen. Waar ik mij wel op kon focussen is het maken van een cookie pop-up/pagina op basis van de schetsen.
 
 ### 23 sept -
 **checkout**
