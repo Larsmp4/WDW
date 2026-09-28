@@ -129,6 +129,6 @@ nav {
   outline: 4px dashed black;
   outline-offset: 1px;
 }
-.h1 { /*deze zorgt voor dat die h1 op paginas en menu wit wordt*/
+h1 { /*deze zorgt voor dat die h1 op paginas en menu wit wordt*/
   color: var(--header-color)
 }
