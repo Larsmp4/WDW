@@ -44,6 +44,9 @@ body {
     font-size: 1.5rem; /*Feedback:duuidelijkere tekst, leesbaarhouden*/
     letter-spacing: 3px;
   }
+  .menu-page h1{
+    padding-inline: 20rem;
+  }
 }
 
 .menu-page main { /*Feedback: mindah whitespace op tel tussen die blokk*/
@@ -93,7 +96,6 @@ nav {
 
 .menu-page h1 {
   font-size: 2rem;
-  padding-inline: 5rem;
 }
 
 .paginaBG main {
