@@ -4,6 +4,12 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 ### 28 sept -
+Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML?
+Hij vindt het belangrijker wat je met een knop kan doen, dan wat het betekend. 
+Wat voor type beperkingen hebben invloed op het gebruiken van websites?
+Visueel, motorisch, congifitef,audiotief
+Noem drie manieren om door een website te navigeren met jouw screenreader.
+TAB,control,Pijltjes toetsen, capslock+control+pijltjes
 Vandaag hebben we opdrachten gemaakt tijden de weekely geek. Dat deden we in een groepje.
 .Knop op home heeft "geen primaire actie" behalve als je hem opzoekt (met pijltjes of tab) 
 .Afbeeldingen op de pagina's werden als een soort "group" aangezien.
