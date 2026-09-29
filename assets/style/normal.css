@@ -43,7 +43,7 @@ body {
   }
   .menu-page a {
     font-size: 1.5rem; /*Feedback:duuidelijkere tekst, leesbaarhouden*/
-    letter-spacing: 3px;
+    /*letter-spacing: 2px tijdelijk ff weggehaald tot ik goed font vind*/
   }
   .menu-page h1{
     padding-inline: 10rem;
@@ -144,6 +144,7 @@ h1 { /*deze zorgt voor dat die h1 op paginas en menu wit wordt*/
   padding: 1rem;
   border-radius: 8px;
   text-align: center;
+  letter-spacing: 3px;
 }
 
 #cookie-banner button {
