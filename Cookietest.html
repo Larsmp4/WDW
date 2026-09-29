@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Lars Heine" />
+    <meta name="color-scheme" content="light dark"/>
+    <title>Cookie</title>
+    <link rel="stylesheet" href="./assets/style/normal.css" />
+</head>
+<body>
+
+<div id="cookie-banner">
+ <p>Deze site gebruikt cookies. <a href="#" id="cookie-meer-info">Meer info</a></p>
+ <button id="cookie-accept">Accepteren</button>
+ <button id="cookie-decline">Weigeren</button>
+</div>
+
+<script>
+ document.getElementById('cookie-accept').onclick = () => {
+ document.getElementById('cookie-banner').remove();
+};
+ document.getElementById('cookie-decline').onclick = () => {
+ window.location.href = 'https://www.youtube.com/watch?v=dQw4w9WgXcQ';
+};
+</script>
+
+</body>
+</html>

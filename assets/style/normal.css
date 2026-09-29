@@ -129,6 +129,28 @@ nav {
   outline: 4px dashed black;
   outline-offset: 1px;
 }
+
 h1 { /*deze zorgt voor dat die h1 op paginas en menu wit wordt*/
   color: var(--header-color)
+}
+
+#cookie-banner {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: var(--color);
+  color: var(--button-color);
+  padding: 1rem;
+  border-radius: 8px;
+  text-align: center;
+}
+
+#cookie-banner button {
+  background: var(--button-color);
+  color: var(--color);
+  border: none;
+  border-radius: 8px;
+  padding: 0.5rem 1rem;
+  margin: 0.5rem;
 }
