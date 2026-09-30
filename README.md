@@ -3,6 +3,11 @@
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
 ## Learning Log
+### 30 sept -
+Paar aantekeningen test website (visueel beperkt)
+.Elke afbeelding heeft bijna dezelfde tekst POT+EINDSTAND.
+.Ajax afbeelding geeft soms aan dat hij geen premaire actie heeft, en soms heeft die dat wel en kan je wel enter gebruiken.
+
 ### 28 sept -
 Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML?
 Hij vindt het belangrijker wat je met een knop kan doen, dan wat het betekend. 
