@@ -146,6 +146,7 @@ h1 { /*deze zorgt voor dat die h1 op paginas en menu wit wordt*/
   border-radius: 8px;
   text-align: center;
   letter-spacing: 3px;
+  box-shadow: 0 -4px 10px rgba(0, 0, 0, 0.3);
 }
 
 #cookie-banner button {
