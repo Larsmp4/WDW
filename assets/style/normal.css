@@ -160,7 +160,7 @@ h1 { /*deze zorgt voor dat die h1 op paginas en menu wit wordt*/
 }
 
 #cookie-banner button:hover {
-  background: black;
+  background: var(--link-hover);
   color: var(--button-color);
 }
 
