@@ -180,10 +180,9 @@ h1 { /*deze zorgt voor dat die h1 op paginas en menu wit wordt*/
 footer button {
   background: none;
   border: none;
-  font-size: ;
+  font-size: 2rm;
   color: var(--color);
   text-decoration: underline;
   font-family: "Anton", Arial, sans-serif;
-  font-size: 2rm ;
   cursor: pointer; /*handje op de hover*/
 }
