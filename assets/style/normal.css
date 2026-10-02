@@ -181,5 +181,6 @@ footer button {
   border: none;
   color: var(--color);
   text-decoration: underline;
-  cursor: pointer;
+  font-family: "Anton", Arial, sans-serif;
+  /*cursor: pointer;*/
 }
