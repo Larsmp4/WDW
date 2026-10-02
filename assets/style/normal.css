@@ -135,7 +135,7 @@ h1 { /*deze zorgt voor dat die h1 op paginas en menu wit wordt*/
   color: var(--header-color)
 }
 
-.cookie-banner {
+#cookie-banner {
   position: fixed;
   left: 0;
   right: 0;
@@ -149,7 +149,7 @@ h1 { /*deze zorgt voor dat die h1 op paginas en menu wit wordt*/
   box-shadow: 0 -5px 5px rgba(0, 0, 0, 0.3);
 }
 
-.cookie-banner button {
+#cookie-banner button {
   background: var(--button-color);
   color: var(--color);
   border: none;
@@ -157,32 +157,17 @@ h1 { /*deze zorgt voor dat die h1 op paginas en menu wit wordt*/
   padding: 0.5rem 1rem;
   margin: 0.5rem;
   font-family: Arial, Helvetica, sans-serif;
-  cursor: pointer; /*Feedback Front end student en nicky*/
 }
 
-.cookie-banner button:hover {
+#cookie-banner button:hover {
   background: var(--link-hover);
+  color: var(---colobuttonr);
+}
+
+#cookie-banner a {
   color: var(--button-color);
 }
 
-.cookie-banner a {
-  color: var(--button-color);
-}
-
-.cookie-banner a:hover {
+#cookie-banner a:hover {
   color: var(--link-hover);
-}
-
-.hidden {
-  display: none;
-}
-
-footer button {
-  background: none;
-  border: none;
-  font-size: 2rm;
-  color: var(--color);
-  text-decoration: underline;
-  font-family: "Anton", Arial, sans-serif;
-  cursor: pointer; /*handje op de hover*/
 }
