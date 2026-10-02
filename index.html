@@ -16,12 +16,12 @@
   </head>
 
   <body>
-   <div class="cookie-banner">
+   <div id="cookie-banner">
       <p>Deze site maakt gebruik van koekjes,
-        <a href="https://docs.github.com/en/site-policy/privacy-policies/github-cookies" class="cookie-meer-info">voor meer info over de github cookies klik hier!</a>
+        <a href="https://docs.github.com/en/site-policy/privacy-policies/github-cookies" id="cookie-meer-info">voor meer info over de github cookies klik hier!</a>
       </p>
-      <button class="cookie-accept">Accepteren</button>
-      <button class="cookie-decline">Weigeren</button>
+      <button id="cookie-accept">Accepteren</button>
+      <button id="cookie-decline">Weigeren</button>
    </div>
 
     <header>
@@ -38,18 +38,15 @@
     </main>
 
     <footer>
-      <button class="cookie-settings">Cookie-instellingen</button>
+      test6.6
     </footer>
 
     <script>
-      document.querySelector('.cookie-accept').onclick = () => {
-        document.querySelector('.cookie-banner').classList.add('hidden');
+      document.getElementById('cookie-accept').onclick = () => {
+        document.getElementById('cookie-banner').remove();
       };
-      document.querySelector('.cookie-decline').onclick = () => {
+      document.getElementById('cookie-decline').onclick = () => {
         window.location.href = 'https://www.youtube.com/watch?v=K_32IZ2Xtjk';
-      };
-      document.querySelector('.cookie-settings').onclick = () => {
-        document.querySelector('.cookie-banner').classList.remove('hidden');
       };
     </script>
 
