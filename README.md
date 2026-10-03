@@ -10,6 +10,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 - Content bijvullen (bijvoorbeeld recaps van hoe de potten waren en leuke feitjes/herinneringen)
 - Justus vragen over de .JS, met welke data er daadewerkelijk wordt gedeeld.
 - Custom kleur properties aanpassen.
+
 **GEDAAN:**
 - Mouseicons (handjes) toegvoegd aan de links
 - Knop aangepakt waar iemand de cookies weer kan wijzigen (voor als die zich bedenkt)
