@@ -42,7 +42,7 @@ body {
   .row li {
     max-width: 140px;
   }
-  .menu-page a {
+  .menu-page main a {
     font-size: 1.5rem; /*Feedback:duuidelijkere tekst, leesbaarhouden*/
     /*letter-spacing: 2px tijdelijk ff weggehaald tot ik goed font vind*/
   }
@@ -79,7 +79,7 @@ nav {
   min-width: 0;
 }
 
-.menu-page a { /*knopie design */
+.menu-page main a { /*knopie design */
   display: flex;
   justify-content: center;
   align-items: center; 
@@ -92,7 +92,7 @@ nav {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-.menu-page a:hover {
+.menu-page main a:hover {
   background: var(--button-hover);
 }
 
@@ -120,7 +120,7 @@ nav {
   border-radius: 8px;
 }
 
-.menu-page a[inert] {
+.menu-page main a[inert] {
   background: var(--button-color-grijs);
   color: var(--button-color);
   pointer-events: none;
@@ -131,7 +131,7 @@ nav {
   outline-offset: 1px;
 }
 
-h1 { /*deze zorgt voor dat die h1 op paginas en menu wit wordt*/
+h1 { /*deze is vr die h1 op paginas en menu witwordt*/
   color: var(--header-color)
 }
 
