@@ -157,6 +157,7 @@ h1 { /*deze is vr die h1 op paginas en menu witwordt*/
   padding: 0.5rem 1rem;
   margin: 0.5rem;
   font-family: Arial, Helvetica, sans-serif;
+  cursor: pointer; /*knoppen ook met handje,feedback gesprek nicky*/
 }
 
 .cookiebanner button:hover {
@@ -182,5 +183,6 @@ footer button {
   color: var(--color);
   text-decoration: underline;
   cursor: pointer;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Anton", Arial, sans-serif;
+  font-size: 3rm;
 }
