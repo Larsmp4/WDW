@@ -10,6 +10,14 @@
 </head>
 
   <body class="menu-page">
+   <div class="cookiebanner">
+      <p>Deze site maakt gebruik van koekjes,
+        <a href="https://docs.github.com/en/site-policy/privacy-policies/github-cookies" class="cookieinfo">voor meer info over de github cookies klik hier!</a>
+      </p>
+      <button class="accept">Accepteren</button>
+      <button class="decline">Weigeren</button>
+   </div>
+
    <h1> Ik ben Lars Heine en heb een enorme passie voor Ajax! Hieronder zie je een aantal wedstrijden die ik heb bijgewoond.</h1>
     <main>
       <nav aria-label="Wedstrijdmenu">
@@ -32,7 +40,20 @@
       </nav>
     </main>
    <footer>
-    test6.4
+    <button class="cookiesettings">Cookie-instellingen</button>
    </footer>
+
+    <script>
+      document.querySelector('.accept').onclick = () => {
+        document.querySelector('.cookiebanner').classList.add('closed');
+      };
+      document.querySelector('.decline').onclick = () => {
+        window.location.href = 'https://www.youtube.com/watch?v=K_32IZ2Xtjk';
+      };
+      document.querySelector('.cookiesettings').onclick = () => {
+        document.querySelector('.cookiebanner').classList.remove('closed');
+      };
+    </script>
+
   </body>
 </html>
