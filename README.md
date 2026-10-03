@@ -3,6 +3,29 @@
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
 ## Learning Log
+### 3 okt -
+
+### 2 okt -
+**To do's:**
+- Content bijvullen (bijvoorbeeld recaps van hoe de potten waren en leuke feitjes/herinneringen)
+- Justus vragen over de .JS, met welke data er daadewerkelijk wordt gedeeld.
+- Custom kleur properties aanpassen.
+**GEDAAN:**
+- Mouseicons (handjes) toegvoegd aan de links
+- Knop aangepakt waar iemand de cookies weer kan wijzigen (voor als die zich bedenkt)
+- Id's  weggehaald bij de knoppen
+- retro
+<img width="1246" height="171" alt="Schermafbeelding 2026-10-02 163430" src="https://github.com/user-attachments/assets/2eea9be6-efdc-47d9-af9f-da5b0900ca72" />
+<img width="1901" height="910" alt="Schermafbeelding 2026-10-02 165028" src="https://github.com/user-attachments/assets/48e995a1-39ff-4d94-8109-6426d9b19ced" />
+**FEEDBACK UIT GESPREKKEN:**
+- Kijk nog eens naar de .js van Justus, de mouse icon, en wat te doen wanneer de gebruiker van gedachten verandert.
+- Je garden kan wat meer content gebruiken, zodat jij meer vorm kan geven.
+- Mijn custom color properties gebruiken waar voor hun naam staat (bv: Geen button-hover gebruiken voor een tekstkleur)
+- Liefst niet teveel met ID's werken (mag wel, liever niet)
+<img width="2989" height="2147" alt="20261002_122153" src="https://github.com/user-attachments/assets/8c7f3f36-f5b6-446e-88c4-6a1821fb704b" />
+<img width="2543" height="1828" alt="20261002_122203" src="https://github.com/user-attachments/assets/4fb5244d-6115-4480-a671-018c9ea67d35" />
+<img width="3420" height="2252" alt="20261002_122135" src="https://github.com/user-attachments/assets/c6f7dce4-c677-459e-ac77-2eaf96d9dc4b" />
+
 ### 30 sept -
 Paar aantekeningen test website (visueel beperkt)
 .Elke afbeelding heeft bijna dezelfde tekst POT+EINDSTAND.
