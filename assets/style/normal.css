@@ -120,9 +120,10 @@ nav {
   border-radius: 8px;
 }
 
-.paginaBG h2, h3 {
-  letter-spacing: 5px;
-  
+.paginaBG h2,
+.paginaBG h3 {
+  letter-spacing: 2px;
+  font-size: 1rem;
 }
 
 .menu-page main a[inert] {
