@@ -123,6 +123,7 @@ nav {
 .paginaBG h2,
 .paginaBG h3 {
   letter-spacing: 2px;
+  color: var(--header-color);
 }
 
 .menu-page main a[inert] {
