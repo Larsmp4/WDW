@@ -3,7 +3,22 @@
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
 ## Learning Log
-### 3 okt -
+### 5 okt -
+Vandaag schetsen gemaakt voor onze songtext. Ik heb gekozen voor LET IT HAPPEN van tame impala. Met daarbij de volgende tekst:
+
+It's always around me, all this noise
+But not nearly as loud as the voice saying
+"Let it happen, let it happen (it's gonna feel so good)
+Just let it happen, let it happen"
+
+Daarbij heb ik meerdere schetsen gemaakt met het idee van een mond die zegt let it happen. Ook heb ik het woord "AROUND" soms rond gemaakt (round) En noise op een soort geluidsgolf gezet.
+Zie hieronder een beetje wat ik bedoel:
+(THE COOLER ONES)
+<img width="2252" height="4000" alt="20261006_101415" src="https://github.com/user-attachments/assets/2ddb72aa-8378-456a-84e3-7c945e1280cc" />
+<img width="2252" height="4000" alt="20261006_101421" src="https://github.com/user-attachments/assets/a14b6ff2-cae3-4b85-ace8-5ac02107b1e3" />
+(THE COOL ONES)
+<img width="2919" height="2067" alt="20261005_145428" src="https://github.com/user-attachments/assets/18df0183-8fb2-4c26-8a58-94b6bb39a77b" />
+<img width="3289" height="2006" alt="20261005_140402" src="https://github.com/user-attachments/assets/2eeb75c4-f7ec-4c4a-b602-27759d282a5d" />
 
 ### 2 okt -
 **To do's:**
