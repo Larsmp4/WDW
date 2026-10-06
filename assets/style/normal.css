@@ -120,6 +120,10 @@ nav {
   border-radius: 8px;
 }
 
+.paginaBG h2, h3 {
+  letter-spacing: 5px;
+}
+
 .menu-page main a[inert] {
   background: var(--button-color-grijs);
   color: var(--button-color);
