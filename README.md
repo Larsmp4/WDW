@@ -3,6 +3,18 @@
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
 ## Learning Log
+### 7 okt -
+<img width="1038" height="856" alt="Schermafbeelding 2026-10-07 124941" src="https://github.com/user-attachments/assets/5378ee24-6fa5-45f4-9668-22e80d4d0a7f" />
+
+Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker.
+
+Beter responsive en vaak betere hierachrie en afstanden.
+Noem drie manieren om chaos in je ontwerp te voorkomen.
+
+Hierarchie, variables, consistentie
+Hoeveel gekkigheid moet er in je werk zitten?
+
+Net aan genoeg dat het niet te gek is ;)
 ### 5 okt -
 Vandaag schetsen gemaakt voor onze songtext. Ik heb gekozen voor LET IT HAPPEN van tame impala. Met daarbij de volgende tekst:
 
