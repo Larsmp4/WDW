@@ -3,6 +3,20 @@
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
 ## Learning Log
+### 8 okt -
+Nu zie ik pas dat we beginnen met animeren. Oepsie...
+Vandaag herindeling toegepast op de site en schetsen gemaakt voor animatie (oude animatie even weggelaten)
+CHECKOUTTTT
+Welke variabelen van Seraphs gebruik je in de opmaak van je songtekst?
+Ik gebruik als basis 0 (schreefloos) maar wil evt een animatie gebruiken met schreef
+Wat voegt iedere variabele toe aan je ontwerp (denk aan leesbaarheid, hiërarchie of de uitstraling die je wil bereiken)?
+Elk SRFS as heeft weer een andere "vibe" bij mij is dat een wat "simple" vibe. Niet teveel, precies genoeg.
+Hoe zou je animatie kunnen toepassen om het ritme of de accenten in de weergave van je songtekst nog beter visueel te maken?
+bijvoorbeeld de grote tekst nog duidelijker maken door heb groter te animeren (scalen) of een andere srfs as geven om zo extra aandacht te vragen. Iets wat ook mogelijk is is bijvoorbeeld een soort "scale/srfs" optie te doen als een soort karaoke (dat je met de tekst mee wordt begeleid)
+### 8 okt -
+Vandaag heb ik mijn srfs een animatie gegeven van 0 naar 20. Dat brengt al speelsheid met zich mee wat bijpassend is.
+<img width="577" height="243" alt="Schermafbeelding" src="https://github.com/user-attachments/assets/2464ba52-9299-4484-929e-13a47cd11e1d" />
+<img width="1513" height="852" alt="Schermafbeelding" src="https://github.com/user-attachments/assets/edbbc915-833d-416d-9629-17062b0f41da" />
 ### 7 okt -
 <img width="1038" height="856" alt="Schermafbeelding 2026-10-07 124941" src="https://github.com/user-attachments/assets/5378ee24-6fa5-45f4-9668-22e80d4d0a7f" />
 
