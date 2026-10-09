@@ -3,7 +3,7 @@
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
 ## Learning Log
-### 8 okt -
+### 9 okt -
 Nu zie ik pas dat we beginnen met animeren. Oepsie...
 Vandaag herindeling toegepast op de site en schetsen gemaakt voor animatie (oude animatie even weggelaten)
 CHECKOUTTTT
