@@ -188,7 +188,8 @@ h1 { /*deze is vr die h1 op paginas en menu witwordt*/
   display: none;
 }
 
-footer button {
+footer button,
+footer a {
   background: none;
   border: none;
   color: var(--color);
@@ -196,4 +197,10 @@ footer button {
   cursor: pointer;
   font-family: "Anton", Arial, sans-serif;
   font-size: 2rem;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
 }
