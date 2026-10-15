@@ -14,7 +14,8 @@ html { /*Feedback: darklight verplicht!!!!*/
   --button-color-grijs: #2e2e2e;
   --header-color: light-dark(#d2122e, white);
   --link-hover: black;
-  
+
+  /* Nieuw: cookiebanner */
   --banner-background: #700314;
   --banner-color: white;
   --banner-hover: black;
@@ -86,5 +87,113 @@ nav {
 .menu-page main a { /*knopie design */
   display: flex;
   justify-content: center;
+  align-items: center; 
+  aspect-ratio: 1;
+  background: var(--button-background);
+  color: var(--button-color);
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 8px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.menu-page main a:hover {
+  background: var(--button-hover);
+}
+
+.menu-page h1 {
+  font-size: 2rem;
+}
+
+.paginaBG main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
   align-items: center;
+  gap: 1rem;
+  padding: 1.25rem;
+}
+
+.photo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+}
+
+.photo-grid img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+.paginaBG h2,
+.paginaBG h3 {
+  letter-spacing: 2px;
+  color: var(--header-color);
+}
+
+.menu-page main a[inert] {
+  background: var(--button-color-grijs);
+  color: var(--button-color);
+  pointer-events: none;
+}
+
+:focus-visible { /*feedback student front-end: Als je met tab door de site heengaat is de zwarte rand te klein*/
+  outline: 4px dashed black;
+  outline-offset: 1px;
+}
+
+h1 { /*deze is vr die h1 op paginas en menu witwordt*/
+  color: var(--header-color)
+}
+
+.cookiebanner {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: var(--banner-background);
+  color: var(--banner-color);
+  padding: 1rem;
+  border-radius: 8px;
+  text-align: center;
+  letter-spacing: 3px;
+  box-shadow: 0 -5px 5px rgba(0, 0, 0, 0.3);
+}
+
+.cookiebanner button {
+  background: var(--banner-color);
+  color: var(--color);
+  border: none;
+  border-radius: 8px;
+  padding: 0.5rem 1rem;
+  margin: 0.5rem;
+  font-family: Arial, Helvetica, sans-serif;
+  cursor: pointer; /*knoppen ook met handje,feedback gesprek nicky*/
+}
+
+.cookiebanner button:hover {
+  background: var(--banner-hover);
+  color: var(--banner-color);
+}
+
+.cookiebanner a {
+  color: var(--banner-color);
+}
+
+.cookiebanner a:hover {
+  color: var(--banner-hover);
+}
+
+.closed {
+  display: none;
+}
+
+footer button {
+  background: none;
+  border: none;
+  color: var(--color);
+  text-decoration: underline;
+  cursor: pointer;
+  font-family: "Anton", Arial, sans-serif;
+  font-size: 2rem;
 }
