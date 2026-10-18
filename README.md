@@ -3,6 +3,10 @@
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
 ## Learning Log
+### reces -
+<img width="3231" height="2100" alt="20261018_110601" src="https://github.com/user-attachments/assets/b736451d-3dd9-4f0e-90ff-03fef13ae112" />
+<img width="2962" height="2165" alt="20261018_110617" src="https://github.com/user-attachments/assets/61a79e5c-f892-4aa5-9a4e-131772e47523" />
+
 ### 9 okt -
 Nu zie ik pas dat we beginnen met animeren. Oepsie...
 Vandaag herindeling toegepast op de site en schetsen gemaakt voor animatie (oude animatie even weggelaten)
