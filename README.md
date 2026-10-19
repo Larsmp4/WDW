@@ -5,6 +5,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ## Learning Log
 ### avond 19 okt & 20 okt -
 **FEEDBACK verwerkt:**
+
 Hier heb ik de cookies duidelijker gemaakt door meer info toe te voegen van wat de cookies doen. Dit was ook feedback van Nicky op 2 OKT (Daar kan je het ook terugvinden)
 <img width="1896" height="902" alt="Schermafbeelding 2026-10-19 160645" src="https://github.com/user-attachments/assets/1fe9e1d6-4d94-4abe-8fe7-398f2ea29f91" />
 <img width="1080" height="2340" alt="Screenshot_20261019_163703_Chrome" src="https://github.com/user-attachments/assets/b6fb7119-f93b-42ae-a668-0438b66a6d24" />
