@@ -3,28 +3,23 @@
   font-family: 'Seraphs';
   src: url(./SeraphsVF.woff2) format('woff2'), /* Modern Browsers */
 }
-/* MARK: items */
-body{
-  font-family: 'Seraphs';
-}
 body {
-font-family: 'Seraphs',;
-width: 75rem;
-margin: 0 auto;
+  font-family: 'Seraphs', Arial, sans-serif;
+  max-width: 75rem;
+  margin: 0 auto;
 }
 
 .regel {
-display: grid;
-grid-auto-flow: column;
-justify-content: space-between;
-align-items: center;
+  display: grid;
+  grid-auto-flow: column;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .rechts {
-justify-content: end;
+  justify-content: end;
 }
 
-/*grootes van die tekts*/
 .heelgroot {
   font-size: 9rem;
   font-weight: 800;
@@ -34,16 +29,15 @@ justify-content: end;
   from { font-variation-settings: 'wght' 800, 'SRFS' 0; }
   to   { font-variation-settings: 'wght' 800, 'SRFS' 20; }
 }
-.groot {font-size: 5.5rem;  font-weight: 600;
-}
-.middelgedraaid {
-font-size: 5.5rem;
-font-weight: 600;
-rotate: 15deg;
-}
-.middel {font-size: 3.5rem; font-weight: 500;
-}
-.klein {font-size: 2rem; font-weight: 300;
-}
-.tiny {font-size: 1.5rem; font-weight: 300;
+.groot          { font-size: 5.5rem; font-weight: 600; }
+.middelgedraaid { font-size: 5.5rem; font-weight: 600; rotate: 15deg; }
+.middel         { font-size: 3.5rem; font-weight: 500; }
+.klein          { font-size: 2rem;   font-weight: 300; }
+.tiny           { font-size: 1.5rem; font-weight: 300; }
+
+/*tellie*/
+@media (max-width: 50rem) {
+  .regel     { grid-auto-flow: row; }
+  .heelgroot { font-size: 4rem; }
+  .groot     { font-size: 3rem; }
 }
