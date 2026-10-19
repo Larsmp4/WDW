@@ -1,5 +1,7 @@
-html {
-  font-size: 1.8vh;
+/* MARK: fonts */
+@font-face {
+  font-family: 'Seraphs';
+  src: url(./SeraphsVF.woff2) format('woff2'), /* Modern Browsers */
 }
 
 body {
@@ -46,6 +48,7 @@ h1, footer p {
 
 /* telefoon */
 @media (max-width: 50rem) {
+  html       { font-size: 100%; }
   .regel     { grid-auto-flow: row; }
   .heelgroot { font-size: 4rem; }
   .groot     { font-size: 3rem; }
