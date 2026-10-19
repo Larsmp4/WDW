@@ -6,7 +6,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ### avond 19 okt & 20 okt -
 **FEEDBACK verwerkt:**
 
-Hier heb ik de cookies duidelijker gemaakt door meer info toe te voegen van wat de cookies doen. Dit was ook feedback van Nicky op 2 OKT (Daar kan je het ook terugvinden) Ook heb ik local storage gebruikt zodat als je op acppeteren klikt, hij ook voorgoed wegblijft... Tenzij je natuurlijk op cookies weizegen klikt. Natuurlijk heb ik de weiger knop ook veranderd (ook feedback). Die gaat namelijk nu naar Google.com ipv Bloed,Zweet & Tranen lol.
+Hier heb ik de cookies duidelijker gemaakt door meer info toe te voegen van wat de cookies doen. Dit was ook feedback van Nicky op 2 OKT (Daar kan je het ook terugvinden) Ook heb ik local storage gebruikt zodat als je op acppeteren klikt, hij ook voorgoed wegblijft... Tenzij je natuurlijk op cookies weizegen klikt onderaan de page. Natuurlijk heb ik de weiger knop ook veranderd (ook feedback). Die gaat namelijk nu naar Google.com ipv Bloed,Zweet & Tranen lol.
 <img width="1896" height="902" alt="Schermafbeelding 2026-10-19 160645" src="https://github.com/user-attachments/assets/1fe9e1d6-4d94-4abe-8fe7-398f2ea29f91" />
 <img width="632" height="366" alt="Schermafbeelding 2026-10-19 154159" src="https://github.com/user-attachments/assets/f22fadf2-9e63-46f8-bb11-6fcb1972fe70" />
 
