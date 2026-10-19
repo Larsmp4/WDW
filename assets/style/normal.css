@@ -187,11 +187,16 @@ h1 { /*deze is vr die h1 op paginas en menu witwordt*/
 .cookiebanner ul {
   list-style: none;
   padding: 0;
-  margin: 0.5rem 0;
+  margin: 0.5rem auto;
+  max-width: 40rem;
 }
 
 .cookiebanner li {
-  margin: 0.5rem 0;
+  margin: 0.75rem 0;
+}
+
+.cookiebanner li a {
+  font-size: 1.5rem;
 }
 
 .closed {
