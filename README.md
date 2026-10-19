@@ -3,14 +3,23 @@
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
 ## Learning Log
+### 20 okt -
 
-### reces -
+### 19 okt -
+**FEEDBACK verwerkt**
+<img width="1896" height="902" alt="Schermafbeelding 2026-10-19 160645" src="https://github.com/user-attachments/assets/1fe9e1d6-4d94-4abe-8fe7-398f2ea29f91" />
+<img width="1080" height="2340" alt="Screenshot_20261019_163703_Chrome" src="https://github.com/user-attachments/assets/b6fb7119-f93b-42ae-a668-0438b66a6d24" />
+<img width="1617" height="912" alt="Schermafbeelding 2026-10-19 163602" src="https://github.com/user-attachments/assets/ac8d7c4a-71a0-4cca-bb6a-7a12492aa66c" />
+
+
+
 **FEEDBACK LEERLING**
 
 -Cookie weigeren weghalen zoals het nu is. (Andre hazes) laat voorbeeld pagina afsluiten
 
 -Songtext beschikbaar maken op tel, en minder div's
 
+<img width="2983" height="2062" alt="20261019_161106" src="https://github.com/user-attachments/assets/68c6f399-49f2-4ae6-825f-06c90580aa5c" />
 
 
 ### reces -
