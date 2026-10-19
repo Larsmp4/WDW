@@ -15,7 +15,7 @@
         <a href="https://docs.github.com/en/site-policy/privacy-policies/github-cookies" class="cookieinfo">voor meer info over de github cookies klik hier!</a>
       </p>
       <button class="accept">Accepteren</button>
-      <button class="decline">Weigeren</button>
+      <button class="decline">Weigeren & verlaten</button>
    </div>
 
    <h1> Ik ben Lars Heine en heb een enorme passie voor Ajax! Hieronder zie je een aantal wedstrijden die ik heb bijgewoond.</h1>
@@ -44,17 +44,22 @@
     <a href="./oefeningen/Let_It_Happen_Songtext/letithappen.html" class="songtext">Opdracht:Songtext</a>
    </footer>
 
-    <script>
-      document.querySelector('.accept').onclick = () => {
-        document.querySelector('.cookiebanner').classList.add('closed');
-      };
-      document.querySelector('.decline').onclick = () => {
-        window.location.href = 'https://www.youtube.com/watch?v=K_32IZ2Xtjk';
-      };
-      document.querySelector('.cookiesettings').onclick = () => {
-        document.querySelector('.cookiebanner').classList.remove('closed');
-      };
-    </script>
+  <script>
+  if (localStorage.getItem('cookies') === 'ja') {
+    document.querySelector('.cookiebanner').classList.add('closed');
+  }
+
+  document.querySelector('.accept').onclick = () => {
+    localStorage.setItem('cookies', 'ja'); 
+    document.querySelector('.cookiebanner').classList.add('closed');
+  };
+  document.querySelector('.decline').onclick = () => {
+    window.close(); // AANGEPAST na feedback: was de youtube link naar hazesss
+  };
+  document.querySelector('.cookiesettings').onclick = () => {
+    document.querySelector('.cookiebanner').classList.remove('closed');
+  };
+</script>
 
   </body>
 </html>
