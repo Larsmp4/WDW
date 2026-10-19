@@ -184,6 +184,16 @@ h1 { /*deze is vr die h1 op paginas en menu witwordt*/
   color: var(--banner-hover);
 }
 
+.cookiebanner ul {
+  list-style: none;
+  padding: 0;
+  margin: 0.5rem 0;
+}
+
+.cookiebanner li {
+  margin: 0.5rem 0;
+}
+
 .closed {
   display: none;
 }
@@ -205,3 +215,4 @@ footer {
   flex-wrap: wrap; /*op tellie onder elkraar*/
   gap: 1rem;
 }
+
