@@ -1,12 +1,21 @@
-/* MARK: fonts */
-@font-face {
-  font-family: 'Seraphs';
-  src: url(./SeraphsVF.woff2) format('woff2'), /* Modern Browsers */
+html {
+  font-size: 1.8vh;
 }
+
 body {
   font-family: 'Seraphs', Arial, sans-serif;
-  max-width: 75rem;
-  margin: 0 auto;
+  margin: 0;
+  padding: 0 1rem;
+  line-height: 1;
+}
+
+h1, p {
+  margin: 0;
+}
+
+h1, footer p {
+  font-size: 1.5rem;
+  font-weight: 300;
 }
 
 .regel {
@@ -35,7 +44,7 @@ body {
 .klein          { font-size: 2rem;   font-weight: 300; }
 .tiny           { font-size: 1.5rem; font-weight: 300; }
 
-/*tellie*/
+/* telefoon */
 @media (max-width: 50rem) {
   .regel     { grid-auto-flow: row; }
   .heelgroot { font-size: 4rem; }
