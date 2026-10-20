@@ -4,7 +4,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 ### 20 okt -
-Vandaag heb ik een font gevonden die variable is en meerdere diktes heeft en pas binnen die ajax vibe (snelle hoeken en rechte lijnen) Hiermee wil ik experimenteren op mn site voor animaties. Om het zo toch een beetje wat meer "leven?" te geven. Dit is het font dat ik heb gevonden: https://fontesk.com/zt-nature-typeface/
+
 
 ### avond/nacht 19 okt -
 **FEEDBACK verwerkt:**
