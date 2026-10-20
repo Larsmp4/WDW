@@ -13,7 +13,7 @@ html { /*Feedback: darklight verplicht!!!!*/
   --button-hover: #700314;
   --button-color-grijs: #2e2e2e;
   --header-color: light-dark(#d2122e, white);
-  --link-hover: black;
+  --link-hover: #700314;
 
   /* Nieuw: cookiebanner */
   --banner-background: #700314;
@@ -57,7 +57,7 @@ body {
 }
 
 .menu-page main { /*Feedback: mindah whitespace op tel tussen die blokk*/
-  /*min-height: 100dvh;*/
+
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
@@ -207,11 +207,16 @@ footer button,
 footer a {
   background: none;
   border: none;
-  color: var(--color);
+  color: var(--header-color);
   text-decoration: underline;
   cursor: pointer;
   font-family: "Anton", Arial, sans-serif;
   font-size: 2rem;
+}
+
+footer button:hover,
+footer a:hover {
+  color: var(--link-hover);
 }
 
 footer {
@@ -220,4 +225,3 @@ footer {
   flex-wrap: wrap; /*op tellie onder elkraar*/
   gap: 1rem;
 }
-
