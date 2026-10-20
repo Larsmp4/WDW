@@ -3,7 +3,10 @@
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
 ## Learning Log
-### avond 19 okt & 20 okt -
+### 20 okt -
+Vandaag heb ik een font gevonden die variable is en meerdere diktes heeft en pas binnen die ajax vibe (snelle hoeken en rechte lijnen) Hiermee wil ik experimenteren op mn site voor animaties. Om het zo toch een beetje wat meer "leven?" te geven. Dit is het font dat ik heb gevonden: https://fontesk.com/zt-nature-typeface/
+
+### avond/nacht 19 okt -
 **FEEDBACK verwerkt:**
 
 Hier heb ik de cookies duidelijker gemaakt door meer info toe te voegen van wat de cookies doen. Dit was ook feedback van Nicky op 2 OKT (Daar kan je het ook terugvinden) Ook heb ik local storage gebruikt zodat als je op acppeteren klikt, hij ook voorgoed wegblijft... Tenzij je natuurlijk op cookies weizegen klikt onderaan de page. Natuurlijk heb ik de weiger knop ook veranderd (ook feedback). Die gaat namelijk nu naar Google.com ipv Bloed,Zweet & Tranen lol.
