@@ -4,6 +4,11 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 ### 20 okt -
+Cookies hier toegevoegd aan een appart .JS bestand (aangezien dat via de deep dive moest voor netheid)
+De footer tekst dichter op t menu gezet i.p.v. die 1000x scrollen voor je cookies wijzigen.
+<img width="1313" height="947" alt="Schermafbeelding 2026-10-20 112410" src="https://github.com/user-attachments/assets/2552e179-7d0d-4da4-bfbf-716abaa1f35d" />
+<img width="1892" height="857" alt="Schermafbeelding 2026-10-20 113113" src="https://github.com/user-attachments/assets/86df3374-be28-409e-a2e6-156f62df77d0" />
+<img width="1566" height="386" alt="Schermafbeelding 2026-10-20 111826" src="https://github.com/user-attachments/assets/75713ff3-8442-4019-8c4d-a9d0779b7c3b" />
 
 
 ### avond/nacht 19 okt -
