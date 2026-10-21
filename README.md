@@ -3,6 +3,9 @@
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
 ## Learning Log
+### 21 okt -
+
+
 ### 20 okt -
 Cookies hier toegevoegd aan een appart .JS bestand (aangezien dat via de deep dive moest voor netheid)
 De footer tekst dichter op t menu gezet i.p.v. die 1000x scrollen voor je cookies wijzigen.
