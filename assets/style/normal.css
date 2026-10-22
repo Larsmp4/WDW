@@ -124,6 +124,10 @@ nav {
   border-radius: 8px;
 }
 
+.paginaBG h1,{
+  font-size: 3rem;
+}
+
 .paginaBG h2,
 .paginaBG h3 {
   letter-spacing: 2px;
