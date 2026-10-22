@@ -4,6 +4,11 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 ### 21 okt -
+onderdeel van feedback was het weghalen van een zogehete "/" dat heb ik dus even verder uitgezocht. Het kwam neer op dat het huidige viewport etc gebruik maakt van xhtml ipv HTML5. Vandaar de sluiters /> ipv >. Dit ga ik op alle pagina's dus even veranderen.
+<img width="903" height="712" alt="Schermafbeelding 2026-10-22 101904" src="https://github.com/user-attachments/assets/5844c13f-a3a3-45a4-9e14-0da0e67f4b99" />
+
+
+### 21 okt -
 feedback: 
 <img width="4170" height="5634" alt="20261021_161022" src="https://github.com/user-attachments/assets/a4c97c46-e310-40f0-a859-f119efcf5701" />
 <img width="4592" height="6087" alt="20261021_161032" src="https://github.com/user-attachments/assets/dac4c42b-3112-4c95-a1cf-49f636bd6b22" />
