@@ -11,7 +11,8 @@ AFTER WARNING:
 
 **PROBLEEM OP DE WEDSTRIJDS PAGINA'S:**
 Helaas is er een probleem, ik maak namelijk gebruik van een section op een plek waar de section helemaal niet mag staan. Volgens de W3C is dit heel gemakkelijk op te lossen door er een "DIV" van te maken.
-Dit is dus denk ik een goed voorbeeld voor waar je WEL een DIV gebruikt.
+Dit is dus denk ik een goed voorbeeld voor waar je WEL een DIV gebruikt. (2 afbeeldigen hieronder laten probleem zien, en die hierboven de fix)
+
 <img width="1700" height="153" alt="Schermafbeelding 2026-10-22 104304" src="https://github.com/user-attachments/assets/d5940543-c36f-4448-9389-bc320b65a84e" />
 <img width="1050" height="266" alt="Schermafbeelding 2026-10-22 104315" src="https://github.com/user-attachments/assets/223056d5-b50c-4f4b-8701-3dc4ccf5e0f8" />
 
