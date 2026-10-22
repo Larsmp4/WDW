@@ -4,9 +4,11 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 ### 21 okt -
-Feedback verwerkt✅
-<img width="1801" height="425" alt="Schermafbeelding 2026-10-22 102656" src="https://github.com/user-attachments/assets/60a9acc7-3cc6-4ef8-82ff-6c67d9bb0810" />
 
+
+
+
+AFTER:<img width="1801" height="425" alt="Schermafbeelding 2026-10-22 102656" src="https://github.com/user-attachments/assets/60a9acc7-3cc6-4ef8-82ff-6c67d9bb0810" />
 Onderdeel van feedback was het weghalen van een zogehete "/" dat heb ik dus even verder uitgezocht. Het kwam neer op dat het huidige code (voidelementen zoals img,meta,input etc) gebruik maakt van xhtml ipv HTML5. Vandaar de sluiters /> ipv >. Dit ga ik op alle pagina's dus even veranderen.
 <img width="903" height="712" alt="Schermafbeelding 2026-10-22 101904" src="https://github.com/user-attachments/assets/5844c13f-a3a3-45a4-9e14-0da0e67f4b99" />
 
