@@ -52,3 +52,14 @@ body {
   from { rotate: 0deg; }
   to   { rotate: 360deg; }
 }
+
+.regel:nth-child(2) .groot {
+  animation: glitchachtig 0.4s steps(2) infinite;
+}
+
+@keyframes glitchachtig {
+  0%   { translate: 0 0;      rotate: 0deg;    font-weight: 600; }
+  25%  { translate: 2px -2px; rotate: -1deg;   font-weight: 300; }
+  50%  { translate: -2px 1px; rotate: 1deg;    font-weight: 900; }
+  75%  { translate: 1px 2px;  rotate: -0.5deg; font-weight: 500; }
+}
