@@ -42,3 +42,14 @@ body {
   .heelgroot { font-size: 4rem; }
   .groot     { font-size: 3rem; }
 }
+
+.regel:first-child .heelgroot {
+  animation:
+    serifs 3s ease-in-out infinite alternate,
+    ronddraaien 5s linear infinite;
+}
+
+@keyframes ronddraaien {
+  from { rotate: 0deg; }
+  to   { rotate: 360deg; }
+}
