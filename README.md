@@ -4,11 +4,19 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 ### 21 okt -
+AFTER WARNING:
+<img width="1045" height="262" alt="Schermafbeelding 2026-10-22 104417" src="https://github.com/user-attachments/assets/e447f772-0f72-4fba-b290-0698cc2c87d7" />
+<img width="621" height="271" alt="Schermafbeelding 2026-10-22 104606" src="https://github.com/user-attachments/assets/e0d50611-3795-4838-b65c-e91ca123251e" />
 
 
+**PROBLEEM OP DE WEDSTRIJDS PAGINA'S:**
+Helaas is er een probleem, ik maak namelijk gebruik van een section op een plek waar de section helemaal niet mag staan. Volgens de W3C is dit heel gemakkelijk op te lossen door er een "DIV" van te maken.
+Dit is dus denk ik een goed voorbeeld voor waar je WEL een DIV gebruikt.
+<img width="1700" height="153" alt="Schermafbeelding 2026-10-22 104304" src="https://github.com/user-attachments/assets/d5940543-c36f-4448-9389-bc320b65a84e" />
+<img width="1050" height="266" alt="Schermafbeelding 2026-10-22 104315" src="https://github.com/user-attachments/assets/223056d5-b50c-4f4b-8701-3dc4ccf5e0f8" />
 
+AFTER VOID FIX:<img width="1801" height="425" alt="Schermafbeelding 2026-10-22 102656" src="https://github.com/user-attachments/assets/60a9acc7-3cc6-4ef8-82ff-6c67d9bb0810" />
 
-AFTER:<img width="1801" height="425" alt="Schermafbeelding 2026-10-22 102656" src="https://github.com/user-attachments/assets/60a9acc7-3cc6-4ef8-82ff-6c67d9bb0810" />
 Onderdeel van feedback was het weghalen van een zogehete "/" dat heb ik dus even verder uitgezocht. Het kwam neer op dat het huidige code (voidelementen zoals img,meta,input etc) gebruik maakt van xhtml ipv HTML5. Vandaar de sluiters /> ipv >. Dit ga ik op alle pagina's dus even veranderen.
 <img width="903" height="712" alt="Schermafbeelding 2026-10-22 101904" src="https://github.com/user-attachments/assets/5844c13f-a3a3-45a4-9e14-0da0e67f4b99" />
 
