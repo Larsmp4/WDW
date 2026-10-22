@@ -45,7 +45,6 @@ body {
 
 .regel:first-child .heelgroot {
   animation:
-    serifs 3s ease-in-out infinite alternate,
     ronddraaien 5s linear infinite;
 }
 
