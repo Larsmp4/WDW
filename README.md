@@ -4,6 +4,8 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 ### 21 okt -
+Hiermee heb ik alle info/warnings verwerkt en daarmee voldaan aan het verwerken van dit feedback. Ook heb ik de Titel groter gemaakt op de pagina's ;)
+
 AFTER WARNING:
 <img width="1045" height="262" alt="Schermafbeelding 2026-10-22 104417" src="https://github.com/user-attachments/assets/e447f772-0f72-4fba-b290-0698cc2c87d7" />
 <img width="621" height="271" alt="Schermafbeelding 2026-10-22 104606" src="https://github.com/user-attachments/assets/e0d50611-3795-4838-b65c-e91ca123251e" />
