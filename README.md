@@ -11,11 +11,6 @@ Hier heb ik ook meerdere testen gedaan hierboven de uiteindelijke beslissing. Ik
 
 <img width="1902" height="912" alt="Schermafbeelding 2026-10-23 162252" src="https://github.com/user-attachments/assets/8df25283-042b-4a3d-9bb3-e5cdea11ea99" />
 
-Hieronder de afbeeldingen met niewe font en kleur
-<img width="1902" height="912" alt="Schermafbeelding 2026-10-23 162252" src="https://github.com/user-attachments/assets/70aa1a9c-87f9-4407-8cab-d31a1ac1937a" />
-<img width="1902" height="906" alt="Schermafbeelding 2026-10-23 162244" src="https://github.com/user-attachments/assets/b1524905-15d7-453b-9be4-844549e3327a" />
-
-
 **Feedback gehad.** Een deel van de feedback ging over het font...dat het namelijks soms moeilijk te lezen was. Ik had daar ook al mijn twijfels over (het is een mooi font maar niet practish) daarom heb ik opnieuw research gedaan naar ajax en kwam erachter dat ze zelf recent van stijl zijn geswitcht Ik he het dunne font gevonden alleen die is alleen voor AJAX, daarom heb ik dus een alternatief gevonden: https://fonts.google.com/specimen/Michroma?preview.script=Latn (zie hieronder de moodbord/pagina van ajax diens pagina). 
 <img width="1163" height="903" alt="Schermafbeelding 2026-10-23 154847" src="https://github.com/user-attachments/assets/364ce2c2-ea6c-4db6-a6eb-9579cbb38d1a" />
 
