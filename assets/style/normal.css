@@ -16,7 +16,7 @@ html { /*Feedback: darklight verplicht!!!!*/
   --button-color: white;
   --button-hover: #700314;
   --button-color-grijs: #2e2e2e;
-  --header-color: light-dark(#d2122e, white);
+  --header-color: light-dark(#000000, white);
   --link-hover: #700314;
 
   /* Nieuw: cookiebanner */
@@ -56,6 +56,11 @@ body {
   }
   .menu-page h1{
     padding-inline: 10rem;
+  }
+  .paginaBG h1,
+  .paginaBG h2,
+  .paginaBG h3 {
+   padding-inline: 10rem;
   }
 }
 
@@ -137,7 +142,6 @@ nav {
 
 .paginaBG h2,
 .paginaBG h3 {
-  letter-spacing: 2px;
   color: var(--header-color);
 }
 
