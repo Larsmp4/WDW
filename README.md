@@ -3,7 +3,8 @@
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
 ## Learning Log
-### 21 okt -
+
+### 22 okt -
 Hiermee heb ik alle info/warnings verwerkt en daarmee voldaan aan het verwerken van dit feedback. Ook heb ik de Titel groter gemaakt op de pagina's ;)
 
 AFTER WARNING:
@@ -24,7 +25,8 @@ AFTER VOID FIX:<img width="1801" height="425" alt="Schermafbeelding 2026-10-22 1
 Onderdeel van feedback was het weghalen van een zogehete "/" dat heb ik dus even verder uitgezocht. Het kwam neer op dat het huidige code (voidelementen zoals img,meta,input etc) gebruik maakt van xhtml ipv HTML5. Vandaar de sluiters /> ipv >. Dit ga ik op alle pagina's dus even veranderen.
 <img width="903" height="712" alt="Schermafbeelding 2026-10-22 101904" src="https://github.com/user-attachments/assets/5844c13f-a3a3-45a4-9e14-0da0e67f4b99" />
 
-
+<img width="568" height="256" alt="Schermafbeelding 2026-10-23 090104" src="https://github.com/user-attachments/assets/3d45cfa2-6df3-43ca-9e16-cec1dedfd7a9" />
+Hier heb ik een hele simpele animatie toegevoegd. Het zijn meerdere keyframes die de dikte van het (variable) font aanpassen. Waardoor je een soort glitch/warrig effectje krijgt, iets wat goed past bij het woord "noise". Lesgoowww
 
 ### 21 okt -
 feedback: 
