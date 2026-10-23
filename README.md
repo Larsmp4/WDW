@@ -11,6 +11,8 @@ Hier heb ik ook meerdere testen gedaan hierboven de uiteindelijke beslissing. Ik
 
 <img width="1902" height="912" alt="Schermafbeelding 2026-10-23 162252" src="https://github.com/user-attachments/assets/8df25283-042b-4a3d-9bb3-e5cdea11ea99" />
 
+
+
 **Feedback gehad.** Een deel van de feedback ging over het font...dat het namelijks soms moeilijk te lezen was. Ik had daar ook al mijn twijfels over (het is een mooi font maar niet practish) daarom heb ik opnieuw research gedaan naar ajax en kwam erachter dat ze zelf recent van stijl zijn geswitcht Ik he het dunne font gevonden alleen die is alleen voor AJAX, daarom heb ik dus een alternatief gevonden: https://fonts.google.com/specimen/Michroma?preview.script=Latn (zie hieronder de moodbord/pagina van ajax diens pagina). 
 <img width="1163" height="903" alt="Schermafbeelding 2026-10-23 154847" src="https://github.com/user-attachments/assets/364ce2c2-ea6c-4db6-a6eb-9579cbb38d1a" />
 
