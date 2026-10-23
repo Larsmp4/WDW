@@ -3,6 +3,9 @@
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
 ## Learning Log
+### 22 okt -
+Feedback gehad. Een deel van de feedback ging over het font...dat het namelijks soms moeilijk te lezen was. Ik had daar ook al mijn twijfels over (het is een mooi font maar niet practish) daarom heb ik opnieuw research gedaan naar ajax en kwam erachter dat ze zelf recent van stijl zijn geswitcht Ik he het dunne font gevonden alleen die is alleen voor AJAX, daarom heb ik dus een alternatief gevonden: https://fonts.google.com/specimen/Michroma?preview.script=Latn (zie hieronder de moodbord/pagina van ajax diens pagina).
+
 
 ### 22 okt -
 Hiermee heb ik alle info/warnings verwerkt en daarmee voldaan aan het verwerken van dit feedback. Ook heb ik de Titel groter gemaakt op de pagina's ;)
