@@ -16,7 +16,7 @@ html { /*Feedback: darklight verplicht!!!!*/
   --button-color: white;
   --button-hover: #700314;
   --button-color-grijs: #2e2e2e;
-  --header-color: light-dark(#000000, white);
+  --header-color: light-dark(#d2122e, white);
   --link-hover: #700314;
 
   /* Nieuw: cookiebanner */
