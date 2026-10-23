@@ -5,7 +5,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ## Learning Log
 ### 23 okt -
 <img width="1898" height="912" alt="Schermafbeelding 2026-10-23 163912" src="https://github.com/user-attachments/assets/998d5ddf-a69f-478f-a9d6-4fef0f96d0ca" />
-Hier heb ik ook meerdere testen gedaan hierboven de uiteindelijke beslissing. Ik vond namelijk rood op rood soms lastig te lezen dus dacht ik maak de text zwart. Probleem was echter dat die aanpassing de Ajax "vibe" weghaalde. Daarom heb ik de ajax text op de achtergrond iets verminderd qua oppacity. Waardoor rood er weer uitpopt
+**Grote (kleine) Aanpassing:** Hier heb ik ook meerdere testen gedaan hierboven de uiteindelijke beslissing. Ik vond namelijk rood op rood soms lastig te lezen dus dacht ik maak de text zwart. Probleem was echter dat die aanpassing de Ajax "vibe" weghaalde. Daarom heb ik de ajax text op de achtergrond iets verminderd qua oppacity. Waardoor rood er weer uitpopt
 <img width="1902" height="912" alt="Schermafbeelding 2026-10-23 162252" src="https://github.com/user-attachments/assets/8df25283-042b-4a3d-9bb3-e5cdea11ea99" />
 
 Hieronder de afbeeldingen met niewe font en kleur
