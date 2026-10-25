@@ -4,6 +4,14 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 ### 23 okt -
+Ik kwam er achter dat de tekst buiten de vakjes ging. Dus heb ik dit opgelost met een max width (zodat het op tel weer goed is) Daar heb ik de fonts kleiner gemaakt en dat bleek te werken.
+
+Nieuw:
+<img width="486" height="885" alt="Schermafbeelding 2026-10-25 105116" src="https://github.com/user-attachments/assets/0027c0e6-ee5c-429e-8304-60395c488ac0" />
+Oud (met bug):
+<img width="1080" height="2340" alt="Screenshot_20261025_100157_Chrome" src="https://github.com/user-attachments/assets/e414db0a-e0bd-4b3d-b405-b82eca8a7d3b" />
+
+### 23 okt -
 <img width="1898" height="912" alt="Schermafbeelding 2026-10-23 163912" src="https://github.com/user-attachments/assets/998d5ddf-a69f-478f-a9d6-4fef0f96d0ca" />
 
 **Grote kleine Aanpassing:**
