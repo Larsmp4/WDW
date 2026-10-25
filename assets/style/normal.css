@@ -108,6 +108,10 @@ nav {
   background: var(--button-hover);
 }
 
+.row:has(li:nth-child(4)) a { /*had een bug waar de tekst buiten de vakken liep, zie de readme (25okt) voor hoe ik dit heb gefixt :D*/
+  font-size: clamp(0.4rem, 1.9vw, 0.9rem);
+}
+
 .menu-page h1 {
   font-size: 2rem;
 }
