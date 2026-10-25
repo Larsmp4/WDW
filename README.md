@@ -3,8 +3,12 @@
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
 ## Learning Log
-### 23 okt -
-Ik kwam er achter dat de tekst buiten de vakjes ging. Dus heb ik dit opgelost met een max width (zodat het op tel weer goed is) Daar heb ik de fonts kleiner gemaakt en dat bleek te werken.
+### 25 okt -
+Ook heb ik mijn recente wedstijd toegevoegd aan de site en alles gekoppeld
+<img width="1541" height="910" alt="Schermafbeelding 2026-10-25 111717" src="https://github.com/user-attachments/assets/69e6706c-e73e-4420-9d60-d61039bd7978" />
+<img width="1882" height="900" alt="Schermafbeelding 2026-10-25 111711" src="https://github.com/user-attachments/assets/e9cd7b3b-1d5e-49d1-81a2-eb94b7110d6d" />
+
+**Ik kwam er achter dat de tekst buiten de vakjes ging. Dus heb ik dit opgelost met een max width (zodat het op tel weer goed is) Daar heb ik de fonts kleiner gemaakt en dat bleek te werken.**
 
 Nieuw:
 <img width="486" height="885" alt="Schermafbeelding 2026-10-25 105116" src="https://github.com/user-attachments/assets/0027c0e6-ee5c-429e-8304-60395c488ac0" />
