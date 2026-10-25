@@ -114,10 +114,11 @@ nav {
  }
  footer button,
  footer a {
-  font-size: 0.8rem;
+  padding-inline: 1rem;
+  font-size: 1rem;
  }
-
 }
+
 .menu-page h1 {
   font-size: 2rem;
 }
