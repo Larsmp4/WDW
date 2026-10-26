@@ -112,8 +112,8 @@ nav {
  .row:has(li:nth-child(4)) a {
   font-size: 0.6rem;
  }
- footer button,
- footer a {
+ .cookiesettings,
+ .songtext {
   font-size: 0.5rem;
  }
 }
