@@ -3,6 +3,14 @@
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
 ## Learning Log
+### 26 okt voor expo -
+Ik wou nog een "negatiefe" offset toevoegen aan de home pagina zn ajax logo want ik kreeg als feedback:
+ "werkt met screenreader, de focus-state van AJAX op de voorpagina is op sommige resoluties niet goed bruikbaar.."
+
+Hiervoor heb ik 2 belangrijke bronnen gevonden voor het gebruik van een "inset":
+-https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance.html
+-https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/inset
+Dit ga ik nu toepassen op het Ajax logo op de homepage.
 ### 25 okt -
 Ook heb ik mijn recente wedstijd toegevoegd aan de site en alles gekoppeld
 <img width="1541" height="910" alt="Schermafbeelding 2026-10-25 111717" src="https://github.com/user-attachments/assets/69e6706c-e73e-4420-9d60-d61039bd7978" />
