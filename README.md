@@ -28,6 +28,10 @@ Hier heb ik ook meerdere testen gedaan hierboven de uiteindelijke beslissing. Ik
 **Feedback gehad.** Een deel van de feedback ging over het font...dat het namelijks soms moeilijk te lezen was. Ik had daar ook al mijn twijfels over (het is een mooi font maar niet practish) daarom heb ik opnieuw research gedaan naar ajax en kwam erachter dat ze zelf recent van stijl zijn geswitcht Ik he het dunne font gevonden alleen die is alleen voor AJAX, daarom heb ik dus een alternatief gevonden: https://fonts.google.com/specimen/Michroma?preview.script=Latn (zie hieronder de moodbord/pagina van ajax diens pagina). 
 <img width="1163" height="903" alt="Schermafbeelding 2026-10-23 154847" src="https://github.com/user-attachments/assets/364ce2c2-ea6c-4db6-a6eb-9579cbb38d1a" />
 
+<img width="3324" height="2252" alt="20261023_110417" src="https://github.com/user-attachments/assets/697fb7fc-1dc5-4f68-894f-92475e27141f" />
+<img width="3276" height="2250" alt="20261023_110437" src="https://github.com/user-attachments/assets/57e39f48-aac4-42f3-9521-bf1fe392d080" />
+<img width="3184" height="2252" alt="20261023_110355" src="https://github.com/user-attachments/assets/41325f0a-e50e-4685-aad0-a0a1a1725f22" />
+
 ### 22 okt -
 Hiermee heb ik alle info/warnings verwerkt en daarmee voldaan aan het verwerken van dit feedback. Ook heb ik de Titel groter gemaakt op de pagina's ;)
 
