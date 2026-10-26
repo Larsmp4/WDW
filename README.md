@@ -539,7 +539,8 @@ Daarbij heb ik 10 links opgezocht over geschiedenis & clubs van voetbal.
 <img width="1920" height="1080" alt="collage3" src="https://github.com/user-attachments/assets/0d37c2bb-14b0-4380-bb48-abc71a265aac" />
 
 ### 7 sept - 
-<img style="max-height:500; height: auto;" alt="20260907_140412" src="https://github.com/user-attachments/assets/57889164-066b-4a4d-bf54-4fcb6a8cca47" />
+<img width="7269" height="5109" alt="647304747-57889164-066b-4a4d-bf54-4fcb6a8cca47" src="https://github.com/user-attachments/assets/56ac5279-8418-4af9-91c2-03148330cb0b" />
+
 Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.
 Digital garden is nog niet af en is altijd up to date
 Leg uit wat een website 'webby' maakt en welke websites jou het meeste inspireren.
