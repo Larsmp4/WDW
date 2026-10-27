@@ -18,7 +18,7 @@ html { /*Feedback: darklight verplicht!!!!*/
   --button-color-grijs: #2e2e2e;
   --header-color: light-dark(#d2122e, white);
   --link-hover: #700314;
-  --Focus-state: #700314;
+  --Focus-state: #D4AF37; /*metallic gold, gebaseerd op ajax zn goudkleur, 22-23 thuis en 26-27 uit*/
 
   /* Nieuw: cookiebanner */
   --banner-background: #700314;
