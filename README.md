@@ -5,8 +5,10 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ## Learning Log
 ### 26 okt  -
 **FEEDBACK VANDAAG:**
+
 -laat de footer text passen binnen het scherm (tel)
--zorg ervoor dat je deze readme ook op sprint heb geordend
+-
+-zorg ervoor dat je deze readme ook op sprint heb geordend-
 -
 
 <img width="6599" height="4592" alt="20261026_135313" src="https://github.com/user-attachments/assets/95b2d5ac-20ca-4a56-a2d9-b73d80bbe9d7" />
