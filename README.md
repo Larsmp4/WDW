@@ -8,7 +8,7 @@ SPRINT 3:
 -
 
 ### 27 okt  -
-**feedback gister verwerkt:**
+**feedback van gister verwerkt:**
 
 Afbeelding van hoe ik de door heb gegeven waar elke sprint begint in readme. Dus heb het op datum en op sprint volgorde (boven is nieuw)
 <img width="1531" height="476" alt="Schermafbeelding 2026-10-27 105151" src="https://github.com/user-attachments/assets/303f9da8-18c3-4e3f-b1c5-8113ffd9495e" />
@@ -23,6 +23,10 @@ HOW:
 BEFORE TEXT FIX:
 <img width="1080" height="2340" alt="Screenshot_20261026_145208_Chrome" src="https://github.com/user-attachments/assets/3a6f2f20-5a43-41b3-832c-4abe9aaa6a4b" />
 text in de footer loopt hier nog van de pagina af (cut)
+
+**Focus state fix**
+Zelf kwam ik erachter dat de focus state het niet lekker deed in dark mode (zwart op zwart) dus heb ik ervoor gekozen dit met light-dark te doen. Maar ook dat ging niet helemaal lekekr op sommige kleuren. Uiteindelijk moest ik denken aan "Goud" iets wat vaak terugkomt in de ajax shirts. (zie moodboard hieronder) Dit heb ik gefixt samen met de offset van plus+ te veranderen naar min- . Zodat ik daarbij ook de feedback van Justus heb verwerkt die ik eerder in de week kreeg; namelijk dat de focus state niet op sommige objecten te zien was. 
+
 
 ### 26 okt  -
 **FEEDBACK VANDAAG:**
