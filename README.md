@@ -5,6 +5,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ## Learning Log
 ### 26 okt  -
 
+
 ### 25 okt -
 Ook heb ik mijn recente wedstijd toegevoegd aan de site en alles gekoppeld
 <img width="1541" height="910" alt="Schermafbeelding 2026-10-25 111717" src="https://github.com/user-attachments/assets/69e6706c-e73e-4420-9d60-d61039bd7978" />
