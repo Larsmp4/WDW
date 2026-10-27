@@ -15,6 +15,7 @@ Afbeelding van hoe ik de door heb gegeven waar elke sprint begint in readme. Dus
 
 AFTER TEXT FIX:
 <img width="1080" height="2340" alt="Screenshot_20261027_105408_Chrome" src="https://github.com/user-attachments/assets/e767bf23-2e2f-4692-810e-04051633aa92" />
+
 HOW:
 <img width="1200" height="220" alt="Schermafbeelding 2026-10-26 145306" src="https://github.com/user-attachments/assets/bd0aae6f-b36b-4fd1-b056-a338c9704b08" />
 
