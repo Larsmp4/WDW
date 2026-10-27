@@ -18,7 +18,7 @@ html { /*Feedback: darklight verplicht!!!!*/
   --button-color-grijs: #2e2e2e;
   --header-color: light-dark(#d2122e, white);
   --link-hover: #700314;
-  --Focus-state: light-dark(#700314,#ffffff);
+  --Focus-state: #700314;
 
   /* Nieuw: cookiebanner */
   --banner-background: #700314;
