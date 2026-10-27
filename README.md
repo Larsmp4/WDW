@@ -25,7 +25,7 @@ BEFORE TEXT FIX:
 text in de footer loopt hier nog van de pagina af (cut)
 
 **Focus state fix**
-Zelf kwam ik erachter dat de focus state het niet lekker deed in dark mode (zwart op zwart) dus heb ik ervoor gekozen dit met light-dark te doen. Maar ook dat ging niet helemaal lekekr op sommige kleuren. Uiteindelijk moest ik denken aan "Goud" iets wat vaak terugkomt in de ajax shirts. (zie moodboard hieronder) Dit heb ik gefixt samen met de offset van plus+ te veranderen naar min- . Zodat ik daarbij ook de feedback van Justus heb verwerkt die ik eerder in de week kreeg; namelijk dat de focus state niet op sommige objecten te zien was. 
+Zelf kwam ik erachter dat de focus state het niet lekker deed in dark mode (zwart op zwart) dus heb ik ervoor gekozen dit met light-dark te doen. Maar ook dat ging niet helemaal lekekr op sommige kleuren. Uiteindelijk moest ik denken aan "Goud" iets wat vaak terugkomt in de ajax shirts. (zie moodboard hieronder) Dit heb ik gefixt samen met de offset van plus+ te veranderen naar min- . Zodat ik daarbij ook de feedback van Justus heb verwerkt die ik eerder in de week kreeg; namelijk dat de focus state niet op sommige objecten te zien was. Bron goude kleur: https://colors.muz.li/color/metallic-gold (kwam aardig overeen met goud wat ik zocht)
 
 
 ### 26 okt  -
