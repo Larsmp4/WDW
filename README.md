@@ -3,6 +3,10 @@
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
 ## Learning Log
+
+SPRINT 3:
+-
+
 ### 26 okt  -
 **FEEDBACK VANDAAG:**
 
@@ -164,6 +168,9 @@ Zie hieronder een beetje wat ik bedoel:
 <img width="2919" height="2067" alt="20261005_145428" src="https://github.com/user-attachments/assets/18df0183-8fb2-4c26-8a58-94b6bb39a77b" />
 <img width="3289" height="2006" alt="20261005_140402" src="https://github.com/user-attachments/assets/2eeb75c4-f7ec-4c4a-b602-27759d282a5d" />
 
+SPRINT 2:
+-
+
 ### 2 okt -
 **To do's:**
 - Content bijvullen (bijvoorbeeld recaps van hoe de potten waren en leuke feitjes/herinneringen)
@@ -289,6 +296,10 @@ Wat zijn heading elementen en hoe horen deze genest te worden?
 Headings zijn de koppen van een pagina, dus h1,h2,h3 etc
 Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.
 Ik accepteer alles... Omdat ik te lui ben om alles te selecteren en het mij niet uitmaakt of ik gepersonaliseerde reclame krijg (Soms is die reclame handig, omdat ik soms vergeet dat ik bepaalde producten nodig heb lol)
+
+SPRINT 1:
+-
+
 ### 18 sept -
 Vandaag heb ik retrospect ingevuld en daarbij meerdere dingen getekent (zie hieronder) Ook kreeg ik de feedback over het gemaakte werk tot nu toe. 
 <img width="4000" height="2754" alt="20260918_111004" src="https://github.com/user-attachments/assets/68e1770f-0636-47b6-844f-acfb25fc72d9" />
@@ -558,6 +569,10 @@ Leg uit wat een website 'webby' maakt en welke websites jou het meeste inspirere
 Duidelijkheid, leuke vormgeving en goeie hirarhie (en voor mij simpelheid)
 Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.
 Ik zit eraan te denken om iets met voetbal of formule 1 te doen, gezien deze 2 sporten veel voor mij hebben betekent, en ik er veel vanaf weet sinds een klein jongetje.
+
+SPRINT 0:
+-
+
 ### 4 sept - [Workshop]
 Vandaag hebben we geluisterd naar het verhaal en geschiedenis van HTML,CCS & javascript. En hun regels. Ook heb ik savonds de kleur veranderd van mijn site en de font aangepast naar ARIEL, gezien ik comic sans echt kut vind lol.
 ### 2 sept - [Workshop]
